@@ -1,0 +1,1570 @@
+[
+  {
+    "topic": "ACL_Anthology_Urdu_paper",
+    "url": "https://aclanthology.org",
+    "title": "Detection of Human and Machine-Authored Fake News in",
+    "snippet": "by MZ Ali · 2025 · Cited by 13 — we updated the detection schema to include machine-generated news focusing on Urdu . pages 3419–3428, PDF: https:// aclanthology .org/2025. acl -long.170.pdf",
+    "host": "aclanthology.org",
+    "date": ""
+  },
+  {
+    "topic": "GitHub_Urdu_NLP_corpus",
+    "url": "https://github.com",
+    "title": "UTRNet: High-Resolution Urdu Text Recognition In Printed",
+    "snippet": "This tool was developed by integrating the UTRNet (https://abdur75648. github .io/UTRNe) with a text detection model (YoloV8 finetuned on UrduDoc ) for end-to-end ... Read more",
+    "host": "github.com",
+    "date": ""
+  },
+  {
+    "topic": "GitHub_Urdu_NLP_corpus",
+    "url": "https://huggingface.co",
+    "title": "m-aliabbas1/makhzan-urdu-corpus · Datasets at",
+    "snippet": "The Makhzan Urdu Corpus is a high-quality, expert-curated collection of classical and modern Urdu texts . This dataset is valuable for Urdu NLP tasks like: ...",
+    "host": "huggingface.co",
+    "date": ""
+  },
+  {
+    "topic": "GitHub_Urdu_NLP_corpus",
+    "url": "https://arxiv.org",
+    "title": "UrduSpeech: A 156-Hour Urdu Speech Corpus with 12-",
+    "snippet": "by Z Zhu · 2026 — UrduSpeech , a 156-hour corpus designed to bridge the digital divide through accurate linguistic representation.",
+    "host": "arxiv.org",
+    "date": ""
+  },
+  {
+    "topic": "Roman_Urdu_sentiment_analysis_",
+    "url": "https://www.aiddata.org",
+    "title": "AidData's Global Chinese Development Finance Dataset",
+    "snippet": "Sep 29, 2021 — This uniquely granular dataset captures 13,427 development projects worth $843 billion financed by more than 300 Chinese government institutions ... Read more",
+    "host": "www.aiddata.org",
+    "date": "Sep 29, 2021"
+  },
+  {
+    "topic": "Roman_Urdu_sentiment_analysis_",
+    "url": "https://www.reddit.com",
+    "title": "r/datasets",
+    "snippet": "The dataset currently contains approximately 25,000 synthetic medical records covering around 40 PII/PHI entity types. There is no downloadable dataset yet.",
+    "host": "www.reddit.com",
+    "date": ""
+  },
+  {
+    "topic": "Roman_Urdu_sentiment_analysis_",
+    "url": "https://www.tensorflow.org",
+    "title": "tf.data.Dataset | TensorFlow v2.16.1",
+    "snippet": "Apr 26, 2024 — The tf.data. Dataset API supports writing descriptive and efficient input pipelines. Create a source dataset from your input data.",
+    "host": "www.tensorflow.org",
+    "date": "Apr 26, 2024"
+  },
+  {
+    "topic": "Roman_Urdu_sentiment_analysis_",
+    "url": "https://www.kaggle.com",
+    "title": "Find Open Datasets and Machine Learning Projects",
+    "snippet": "Browse and download hundreds of thousands of open datasets for AI research, model training, and analysis. Explore, analyze, and share quality data. Sivanessan ...",
+    "host": "www.kaggle.com",
+    "date": ""
+  },
+  {
+    "topic": "Roman_Urdu_sentiment_analysis_",
+    "url": "https://schema.org",
+    "title": "Dataset - Schema.org Type",
+    "snippet": "Dataset - A body of structured information describing some topic(s) of interest. Announcement Statistical information about the spread of a disease,",
+    "host": "schema.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_BERT_transformer_fine",
+    "url": "https://dl.acm.org",
+    "title": "Enriching Urdu NER with BERT Embedding, Data",
+    "snippet": "by A Ahmed · 2024 · Cited by 24 — The study introduces three primary contributions to enhance Urdu NER performance. with particular emphasis on fine - tuning BERT BASE … ...",
+    "host": "dl.acm.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_BERT_transformer_fine",
+    "url": "https://docs.v1.argilla.io",
+    "title": "Fine-tunning a NER model with BERT for Beginners",
+    "snippet": "In this tutorial, you will learn to fine-tune a pre-trained BERT model for Named Entity Recognition. Download the BERT model and start to fine-tune it. how to  ...",
+    "host": "docs.v1.argilla.io",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_BERT_transformer_fine",
+    "url": "https://discuss.huggingface.co",
+    "title": "NER fine-tuning - Beginners",
+    "snippet": "Dec 20, 2021 — Hi, I want to fine tune a NER model on my own dataset and entities . Is that possible? If yes how ? Thanks in advance.",
+    "host": "discuss.huggingface.co",
+    "date": "Dec 20, 2021"
+  },
+  {
+    "topic": "Urdu_NER_BERT_transformer_fine",
+    "url": "https://etasr.com",
+    "title": "Fine-Tuning BERT for Automated News Classification",
+    "snippet": "by MI Salih · 2025 · Cited by 16 — The results show that fine- tuning allows BERT to contextualize domain-specific intricacies , resulting in improved classification performance. We also address ... Read more",
+    "host": "etasr.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_NERCC_2022_shared_tas",
+    "url": "https://link.springer.com",
+    "title": "Advancing Urdu named entity recognition: deep learning for",
+    "snippet": "by K Aziz · 2025 · Cited by 13 — Shared Task: Adapted guidelines for annotating standard entity types including persons, locations, and organizations to fit Urdu news",
+    "host": "link.springer.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_NERCC_2022_shared_tas",
+    "url": "https://journals.plos.org",
+    "title": "A deep learning approach for Named Entity Recognition in",
+    "snippet": "by R Anam · 2024 · Cited by 15 — Considering the NER task , the Urdu language poses immense challenges due to minimal textual resources and exhaustive language complexities [15]. Read more",
+    "host": "journals.plos.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_NERCC_2022_shared_tas",
+    "url": "https://ieeexplore.ieee.org",
+    "title": "UE-NER-2025: A GPT-Based Approach to Multi-Lingual",
+    "snippet": "by M Ahmad · 2025 · Cited by 11 — Named Entity Recognition ( NER ) is a fundamental task that identifies and classifies entities into predefined categories from unstructured text. 12 pages",
+    "host": "ieeexplore.ieee.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_NERCC_2022_shared_tas",
+    "url": "https://www.semanticscholar.org",
+    "title": "Urdu Named Entity Recognition with Attention Bi-LSTM",
+    "snippet": "This study explores the effectiveness of transformer-based models for Named Entity Recognition ( NER ) in Urdu legal documents, a critical task in low-resource ...",
+    "host": "www.semanticscholar.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_NER_NERCC_2022_shared_tas",
+    "url": "https://www.researchgate.net",
+    "title": "Challenges of Urdu Named Entity Recognition: A Scarce",
+    "snippet": "Jun 17, 2026 — The first module called NER module recognizes NE in the text, second module called NEC challenging task for Urdu language. NER Shared Task for ...",
+    "host": "www.researchgate.net",
+    "date": "Jun 17, 2026"
+  },
+  {
+    "topic": "Urdu_NER_NERCC_2022_shared_tas",
+    "url": "https://abbdm.com",
+    "title": "Expanded Entity Coverage and Machine-Annotated Pre-",
+    "snippet": "Feb 2, 2026 — This paper presents a data-efficient framework for Urdu NER that combines large-scale machine-generated annotations with high-quality human- ... Read more",
+    "host": "abbdm.com",
+    "date": "Feb 2, 2026"
+  },
+  {
+    "topic": "Urdu_QA_question_answering_UQu",
+    "url": "http://chaoticity.com",
+    "title": "UQA - Corpus for Urdu Question Answering - chaoticity",
+    "snippet": "May 24, 2024 — We describe the process of selecting an appropriate English-to- Urdu translation model and using it to generate a new Urdu QA dataset from the ( ...",
+    "host": "chaoticity.com",
+    "date": "May 24, 2024"
+  },
+  {
+    "topic": "Urdu_QA_question_answering_UQu",
+    "url": "https://ui.adsabs.harvard.edu",
+    "title": "UQA: Corpus for Urdu Question Answering - ADS",
+    "snippet": "This paper introduces UQA, a novel dataset for question answering and text comprehension in Urdu , a low-resource language with over 70 million native speakers.",
+    "host": "ui.adsabs.harvard.edu",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_QA_question_answering_UQu",
+    "url": "https://www.catalyzex.com",
+    "title": "UQuAD1.0: Development of an Urdu Question Answering",
+    "snippet": "Nov 2, 2021 — This work explores the semi-automated creation of the Urdu Question Answering Dataset (UQuAD1.0 ) by combining machine-translated SQuAD with ... Read more",
+    "host": "www.catalyzex.com",
+    "date": "Nov 2, 2021"
+  },
+  {
+    "topic": "Urdu_Roman_transliteration_cod",
+    "url": "https://en.wikipedia.org",
+    "title": "Code-switching",
+    "snippet": "code-switching or language alternation is the process of shifting from one linguistic code (a language or dialect) to another, depending on the social context",
+    "host": "en.wikipedia.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_Roman_transliteration_cod",
+    "url": "https://sbasse.lums.edu.pk",
+    "title": "Transliteration and Translation of code-mix Language (Roman",
+    "snippet": "Oct 13, 2021 — We have presented a number of different deep learning techniques for transliteration and translation of code mix language ( Roman and English) ...",
+    "host": "sbasse.lums.edu.pk",
+    "date": "Oct 13, 2021"
+  },
+  {
+    "topic": "Urdu_Roman_transliteration_cod",
+    "url": "https://www.scribd.com",
+    "title": "Roman-Urdu to Urdu Transliteration Guide | PDF",
+    "snippet": "The paper proposes an algorithm to effectively solve transliteration issues from Roman - Urdu to Urdu script by encoding roman words, matching them to a lexicon,",
+    "host": "www.scribd.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_Sindh_Punjabi_code-mixed",
+    "url": "https://rjsaonline.com",
+    "title": "Code-Switching or Code-Mixing between Urdu, Punjabi, and",
+    "snippet": "by A Tahir · 2025 — The results show that intra-sentential mixing is common and that the most common pairs are Urdu -English and Punjabi -English.",
+    "host": "rjsaonline.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_Sindh_Punjabi_code-mixed",
+    "url": "https://jmhorizons.com",
+    "title": "CODE SWITCHING AND CODE-MIXING PRACTICES IN",
+    "snippet": "Jun 24, 2025 — switch between languages or mix them . languages including Urdu, Punjabi, Saraiki, Sindhi, and Balochi. mix more than one languages in verbal ...",
+    "host": "jmhorizons.com",
+    "date": "Jun 24, 2025"
+  },
+  {
+    "topic": "Urdu_Sindh_Punjabi_code-mixed",
+    "url": "https://www.macrothink.org",
+    "title": "Alam | International Journal of Linguistics",
+    "snippet": "This paper aims at exploring the functions of code -switching between Punjabi , Urdu and English among multilingual Punjabi -Pakistanis staying in London",
+    "host": "www.macrothink.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_Sindh_Punjabi_code-mixed",
+    "url": "https://www.journalijar.com",
+    "title": "Code-mixing, Code Switching And Borrowing In Urdu",
+    "snippet": "Nov 20, 2018 — This paper will show how Pakistani culture is influenced by the mixture of English and Urdu language word. It is done by qualitative method ...",
+    "host": "www.journalijar.com",
+    "date": "Nov 20, 2018"
+  },
+  {
+    "topic": "Urdu_Sindh_Punjabi_code-mixed",
+    "url": "https://vfast.org",
+    "title": "Urdu-Punjabi Code Switched Sentiment Analysis",
+    "snippet": "by M Hussain · 2025 · Cited by 4 — To overcome the challenge of unavailability of datasets we proposed Large Urdu - Punjabi code switched Corpus for Sentiment Analysis (LUPCSA-25) ...",
+    "host": "vfast.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_Sindh_Punjabi_code-mixed",
+    "url": "https://kurdishstudies.net",
+    "title": "View of The Effect of Code-Switching between English and",
+    "snippet": "Code switching will be clear to both the listener and the speaker, and they easily understand to one to other.There are some examples of Sindhi and Urdu code ...",
+    "host": "kurdishstudies.net",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_Sindh_Punjabi_code-mixed",
+    "url": "https://jals.miard.org",
+    "title": "Urdu-English Code-Mixing in Literary Discourse",
+    "snippet": "by M Zaman · 2025 — English code-mixing can be observed in various forms of written communication, including books, newspapers, magazines, short stories, novels, ...",
+    "host": "jals.miard.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_TTS_text_to_speech_synthe",
+    "url": "https://www.narakeet.com",
+    "title": "Urdu Text to Speech Voices",
+    "snippet": "How to convert text to speech in Urdu? Just type your Urdu text into our Text to Audio tool , select one of the Urdu voices, and click \"Create Audio\". Is ... Read more",
+    "host": "www.narakeet.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_TTS_text_to_speech_synthe",
+    "url": "https://elevenlabs.io",
+    "title": "Free Urdu Text to Speech & Urdu AI Voices",
+    "snippet": "Generate speech in Urdu in a few easy steps ; Enter the Urdu text · Enter text ; Select Urdu voice & generate · Select voice and generate ; Download or use in Studio. Read more",
+    "host": "elevenlabs.io",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_TTS_text_to_speech_synthe",
+    "url": "https://crikk.com",
+    "title": "Free Urdu Text to Speech Online 2026 (Unlimited)",
+    "snippet": "Urdu text to speech is a technology that can convert written words into spoken words. Easily convert text, PDFs, images, or even textbooks into audio.",
+    "host": "crikk.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_TTS_text_to_speech_synthe",
+    "url": "https://yourvoic.com",
+    "title": "Free Urdu Text to Speech Online – AI Voice Generator (اردو)",
+    "snippet": "Convert Urdu text (Nastaliq & Roman Urdu) into crystal-clear, natural AI voices . Designed for Indian Urdu content creators, poets, news broadcasters, and ... Read more",
+    "host": "yourvoic.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_TTS_text_to_speech_synthe",
+    "url": "https://play.google.com/store/apps/details?id=com.webscare.urdutexttospeech&hl=en_IE",
+    "title": "Urdu Text to Speech and Voice",
+    "snippet": "Aug 21, 2026 — Urdu Text to Speech converts written Urdu text into a clear, natural-sounding voice within seconds. Whether you want to listen to messages, ... Read more",
+    "host": "play.google.com",
+    "date": "Aug 21, 2026"
+  },
+  {
+    "topic": "Urdu_TTS_text_to_speech_synthe",
+    "url": "https://www.cartesia.ai",
+    "title": "Native Urdu Text to Speech",
+    "snippet": "Step 1 — Input your Urdu text . Provide Sonic with the text of your choice with our Text to Speech generator. Step 2 — Choose a voice, generate in seconds. Read more",
+    "host": "www.cartesia.ai",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_TTS_text_to_speech_synthe",
+    "url": "https://maestra.ai",
+    "title": "Urdu Text to Speech AI - Free Trial",
+    "snippet": "Convert Urdu text to speech using a diverse portfolio of realistic AI voices, including voice cloning and a free trial. available in 125+ languages.",
+    "host": "maestra.ai",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://ods.ai/competitions/urdu-hack-soc2021",
+    "title": "Abusive and Threatening Language Detection for Tweets in Urdu",
+    "snippet": "Jul 12, 2021 · We encourage participants to propose methods that can automatically detect threat and abuse in Urdu language to avoid violence and outrageous ...",
+    "host": "ods.ai",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/3414524",
+    "title": "Hate Speech Detection in Roman Urdu - ACM Digital Library",
+    "snippet": "hate speech detection in Roman Urdu text, In this study, we have scrapped more than 90,000 tweets and manually parsed them to identify 5,000 Roman Urdu tweets.",
+    "host": "dl.acm.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://app.readable.com/text/profanity",
+    "title": "Profanity Word Detector - Text Analysis Tools - Readable",
+    "snippet": "Want to check quickly for swear words and abuse? Our profanity detector will highlight possible swear words for you with a bright pink underline.",
+    "host": "app.readable.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://aclanthology.org/2020.emnlp-main.197.pdf",
+    "title": "[PDF] Hate-Speech and Offensive Language Detection in Roman Urdu",
+    "snippet": "Nov 16, 2020 · In this work, we presented a dataset in Roman Urdu for the task of hate-speech detection in social media content, annotated with five fine- ...",
+    "host": "aclanthology.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1568494626011270",
+    "title": "Two-level violence incitation detection in urdu using explainable",
+    "snippet": "In recent years, detecting HS and abusive content on SM has become a growing research area due to the rapid spread of offensive language content online. Various ...",
+    "host": "www.sciencedirect.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://www.reddit.com/r/pakistan/comments/1hq82d0/what_are_some_of_the_most_creative_insults_u_know",
+    "title": "What are some of the most creative insults u know in Urdu? : r/pakistan",
+    "snippet": "Dec 31, 2024 · Say whatever you want to but never maa behen ki gaaliyan. Can someone help with this swear/insult? What are your favorite swear words/insults/ ...",
+    "host": "www.reddit.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11576869",
+    "title": "Roman urdu hate speech detection using hybrid machine learning",
+    "snippet": "Nov 19, 2024 · The first dataset contains three classes including neutral, hostile, and hate speech offensive while the second dataset has coarse-grained ...",
+    "host": "pmc.ncbi.nlm.nih.gov",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://www.kaggle.com/datasets/ibrarahmed001/dataset-of-urdu-abusive-language",
+    "title": "Dataset of Urdu Abusive Language - Kaggle",
+    "snippet": "Abusive Language Detection in Urdu Text: Leveraging Deep Learning and Attention Mechanism. ... Roman Urdu Abusive Comment Dataset (5000+Comments). more_vert.",
+    "host": "www.kaggle.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://ceur-ws.org/Vol-3159/T4-4.pdf",
+    "title": "[PDF] Abusive and Threatening Language Detection from Urdu Social",
+    "snippet": "This study explores the usability of conventional machine learning and deep learning models to identify abusive and threatening messages on Urdu social media.",
+    "host": "ceur-ws.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_abusive_profanity_detecti",
+    "url": "https://pypi.org/project/profanity-check",
+    "title": "profanity-check - PyPI",
+    "snippet": "profanity-check uses a linear SVM model trained on 200k human-labeled samples of clean and profane text strings. Its model is simple but surprisingly effective, ...",
+    "host": "pypi.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_authorship_attribution_st",
+    "url": "https://ir.iba.edu.pk",
+    "title": "\"Authorship attribution on Urdu corpus using lexical",
+    "snippet": "by S Yousuf · 2019 — Authorship attribution has deep roots in linguistic Stylometry . Stylometry is the linguistic information to label documents whose authors are unknown by using ... Read more",
+    "host": "ir.iba.edu.pk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_authorship_attribution_st",
+    "url": "https://methods.clsinfra.io",
+    "title": "8 Analysis in Authorship Attribution",
+    "snippet": "May 15, 2023 — Authorship attribution studies frequently use various unsupervised machine learning methods for exploratory data analysis. Most common are ... Read more",
+    "host": "methods.clsinfra.io",
+    "date": "May 15, 2023"
+  },
+  {
+    "topic": "Urdu_authorship_attribution_st",
+    "url": "https://cmu-lib.github.io",
+    "title": "Stylometry and Authorship Analysis",
+    "snippet": "This video discusses the question of authorship attribution and shows how stylometry and machine learning have been able to prove the true ...",
+    "host": "cmu-lib.github.io",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_authorship_attribution_st",
+    "url": "https://www.academia.edu",
+    "title": "(PDF) Authorship Attribution of Arabic Tweets",
+    "snippet": "Combining Bag-Of-Words (BOW) and Stylometric Features (SF) yields the highest accuracy in authorship attribution . Achieved a maximum accuracy of 68.67 ... Read more",
+    "host": "www.academia.edu",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_authorship_attribution_st",
+    "url": "https://fastdatascience.com",
+    "title": "Authorship analysis demo (forensic stylometry and",
+    "snippet": "Fast Data Science has developed a unique forensic stylometry model and Python library which allows you to identify the author of a text by their unique ... Read more",
+    "host": "fastdatascience.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_coreference_resolution_an",
+    "url": "https://blog.diffbot.com",
+    "title": "Coreference Resolution - Diffblog - Diffbot",
+    "snippet": "Anaphora resolution involves resolving meaning when two real world entities are mentioned , but the first entity mentioned changes the meaning of the second. In ...",
+    "host": "blog.diffbot.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_coreference_resolution_an",
+    "url": "https://linguistics.stackexchange.com",
+    "title": "What is the difference between coreference resolution and",
+    "snippet": "Feb 23, 2015 — Is there any difference between coreference resolution and anaphora resolution? More generally, what is the difference between coreferences and anaphoras?",
+    "host": "linguistics.stackexchange.com",
+    "date": "Feb 23, 2015"
+  },
+  {
+    "topic": "Urdu_coreference_resolution_an",
+    "url": "https://thesai.org",
+    "title": "A Coreference Resolution Approach using Morphological",
+    "snippet": "Coreference resolution is considered one of the challenges in natural language processing. Coreference resolution; Anaphora; Alternative Approach;",
+    "host": "thesai.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_coreference_resolution_an",
+    "url": "https://neurosys.com",
+    "title": "Intro to coreference resolution in NLP",
+    "snippet": "coreference resolution (CR) is anaphora resolution (AR). The relation of anaphora occurs in a text when one term refers to another determining the second's one ...",
+    "host": "neurosys.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_coreference_resolution_an",
+    "url": "https://www.ijcesen.com",
+    "title": "A Comprehensive Survey on Anaphora Resolution",
+    "snippet": "Jun 9, 2025 — The goal of the current survey is to examine the anaphora resolution work that has been done for Hindi and related languages. The survey also ...",
+    "host": "www.ijcesen.com",
+    "date": "Jun 9, 2025"
+  },
+  {
+    "topic": "Urdu_coreference_resolution_an",
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "title": "Coreference resolution: A review of general methodologies",
+    "snippet": "by J Zheng · 2011 · Cited by 137 — Coreference resolution is the task of determining linguistic expressions that refer to the same real-world entity in natural language.",
+    "host": "pmc.ncbi.nlm.nih.gov",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_coreference_resolution_an",
+    "url": "https://upcommons.upc.edu",
+    "title": "Coreference Resolution Survey",
+    "snippet": "by E Sapena · 2008 · Cited by 3 — Most of the anaphora resolutions researchers have focused their efforts in the task of pronominal anaphora resolution (also named pronoun ...",
+    "host": "upcommons.upc.edu",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_corpus_CLE_EMILLE",
+    "url": "https://kops.uni-konstanz.de",
+    "title": "The CLE Urdu POS Tagset",
+    "snippet": "by N Calzolari — The tagset has been used to tag 100k words of the CLE Urdu Digest Corpus , giving a tagging accuracy of 96.8%. the EMILLE project (Lüdeling & Kytö, 2008).",
+    "host": "kops.uni-konstanz.de",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_corpus_CLE_EMILLE",
+    "url": "https://catalog.elra.info",
+    "title": "CLE Pakistan Urdu Speech Corpus",
+    "snippet": "Apr 24, 2019 — The CLE Pakistan Urdu Speech Corpus consists of phonetically rich Urdu sentences extracted from CLE Urdu Digest Corpus and additional sentences ...",
+    "host": "catalog.elra.info",
+    "date": "Apr 24, 2019"
+  },
+  {
+    "topic": "Urdu_corpus_CLE_EMILLE",
+    "url": "https://cle.org.pk",
+    "title": "CLE Store",
+    "snippet": "CLE is making these linguistic resources available without cost for supporting academic, non-commercial research. Urdu Text Corpus 14 Point Size",
+    "host": "cle.org.pk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_corpus_CLE_EMILLE",
+    "url": "https://www.lancaster.ac.uk",
+    "title": "EMILLE Corpus Documentation",
+    "snippet": "The parallel corpus consists of 200,000 words of text in English and accompanying translations in Hindi, Bengali, Punjabi, Gujarati and Urdu . The EMILLE Project ...",
+    "host": "www.lancaster.ac.uk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_corpus_CLE_EMILLE",
+    "url": "https://www.euppublishing.com",
+    "title": "Design and construction of an openly available Urdu web",
+    "snippet": "Nov 28, 2024 — 2003 emille/ciil corpora ・ cle Urdu Digest Corpus ・ a widely used program for dealing with the complexities of rendering Urdu as typeset,",
+    "host": "www.euppublishing.com",
+    "date": "Nov 28, 2024"
+  },
+  {
+    "topic": "Urdu_corpus_CLE_EMILLE",
+    "url": "https://ufal.mff.cuni.cz",
+    "title": "UMC005: English-Urdu Parallel Corpus - ÚFAL",
+    "snippet": "UMC005 English-Urdu is a parallel corpus of texts in English and Urdu language with sentence alignments. The corpus can be used for experiments with statistical ...",
+    "host": "ufal.mff.cuni.cz",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_cross-lingual_transfer_le",
+    "url": "https://www.emergentmind.com",
+    "title": "Cross-Lingual Transfer Learning",
+    "snippet": "Jan 16, 2026 — Cross-Lingual Transfer Learning is a set of approaches that leverage annotated data and multilingual embeddings from resource-rich languages ... Read more",
+    "host": "www.emergentmind.com",
+    "date": "Jan 16, 2026"
+  },
+  {
+    "topic": "Urdu_cross-lingual_transfer_le",
+    "url": "https://www.mdpi.com",
+    "title": "Multilingual Named Entity Recognition in Arabic and Urdu",
+    "snippet": "by F Ullah · 2025 · Cited by 1 — JML enables simultaneous learning from both Arabic and Urdu data , while JTL enriches the training process by translating Arabic to Urdu and merging it with ...",
+    "host": "www.mdpi.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_cross-lingual_transfer_le",
+    "url": "https://www.nature.com",
+    "title": "Enhancing Urdu hate speech detection through differential",
+    "snippet": "by I Hussain · 2025 · Cited by 2 — This work also explores the applicability and suitability of transfer learning , particularly through DAmBERT, for detecting Urdu hate speech, ... Read more",
+    "host": "www.nature.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11101039",
+    "title": "ET-Network: A novel efficient transformer deep learning model for",
+    "snippet": "May 17, 2024 · Transformer-based models are promising for automated recognition in high- and low-resource languages such as Urdu. This paper presents a ...",
+    "host": "pmc.ncbi.nlm.nih.gov",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://www.youtube.com/watch?v=4RRlwcGb0lU",
+    "title": "Chapter 1: Transformer Models | Introduction Part: 1 | Urdu/Hindi",
+    "snippet": "Feb 14, 2023 · ... Transformer models Natural Language Processing (NLP) Neural network architecture Self-attention Positional encoding Machine learning Deep ...",
+    "host": "www.youtube.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://medium.com/correll-lab/building-an-english-to-urdu-transformer-from-scratch-69069e8b1ed3",
+    "title": "Building an English-to-Urdu Translation Transformer from Scratch",
+    "snippet": "Oct 5, 2025 · In this project, we implement a Transformer Encoder-Decoder from scratch and train it to perform English-to-Urdu translation.",
+    "host": "medium.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://ideas.repec.org/a/abq/ijist1/v7y2025i4p3082-3095.html",
+    "title": "Abstractive Urdu Text Summarization Using Multilingual Transformer",
+    "snippet": "This text investigates the possible extent of deep learning models to automate Urdu text summarization.",
+    "host": "ideas.repec.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://link.springer.com/article/10.1007/s40747-025-02066-6",
+    "title": "Advancing Urdu named entity recognition: deep learning for aspect",
+    "snippet": "Oct 29, 2025 · Our NER model is tailored for processing Urdu news headlines, integrating advanced neural network architectures and linguistic features ...",
+    "host": "link.springer.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://ieeexplore.ieee.org/document/10508575",
+    "title": "Detection of Sarcasm in Urdu Tweets Using Deep Learning and",
+    "snippet": "Apr 25, 2024 · In this research, we have utilized a newly created Urdu sarcasm dataset comprising 12,910 tweets manually re-annotated into sarcastic and non- ...",
+    "host": "ieeexplore.ieee.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://eprints.staffs.ac.uk/8439",
+    "title": "A Deep Learning Approach to Urdu–English Translation - STORE",
+    "snippet": "Sep 13, 2024 · In this work, we leverage the sequence-to-sequence transformer model to translate Urdu (a low resourced language) to English.",
+    "host": "eprints.staffs.ac.uk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://www.linkedin.com/posts/muhammad--taha_we-built-an-urdu-chatbot-from-scratch-no-activity-7386003111783436288-JJ-3",
+    "title": "Built a custom Urdu chatbot with Transformers, no pretrained models",
+    "snippet": "Oct 20, 2025 · Transformers truly learn language structure — making this more than just a chatbot, but a deep dive into modern NLP architecture.",
+    "host": "www.linkedin.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_deep_learning_transformer",
+    "url": "https://norma.ncirl.ie/8739/1/jackaylohano.pdf",
+    "title": "[PDF] Automated Detection of Fake News in Urdu Language Using Pre",
+    "snippet": "Sep 3, 2025 · This study aims to bridge the gap by leveraging Transfer Learning (TL) on three transformer models for Urdu fake news classification and is an ...",
+    "host": "norma.ncirl.ie",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "http://faculty.washington.edu/fxia/LAWVI/workshop_presentation_slides/paper_session4/riyaz.pdf",
+    "title": "[PDF] A Dependency Treebank of Urdu and its Evaluation",
+    "snippet": "Treebanks play an increasingly important role in NLP tasks such as parsing. They can be an indispensable resource for linguistic investigations.",
+    "host": "faculty.washington.edu",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://arxiv.org/pdf/2406.09549",
+    "title": "[PDF] Urdu Dependency Parsing and Treebank Development - arXiv",
+    "snippet": "Oct 2, 2024 · Parsing is the process of analyzing a sentence's syntactic structure. Urdu is a low-resource, free word-order language and exhibits complex ...",
+    "host": "arxiv.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://universaldependencies.org",
+    "title": "Universal Dependencies",
+    "snippet": "Universal Dependencies (UD) is a framework for consistent annotation of grammar. The Urdu Universal Dependency Treebank. Urdu Dependency Treebank (UDTB) effort ...",
+    "host": "universaldependencies.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://www.scribd.com/document/344043084/Urdu-Dependency-Parser-a-Data-Driven-Approach",
+    "title": "Urdu Dependency Parser Overview | PDF | Parsing - Scribd",
+    "snippet": "This paper presents the first data-driven dependency parser for Urdu. The parser was trained using the MaltParser system on the newly developed Urdu Dependency ...",
+    "host": "www.scribd.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://ijcaonline.org/archives/volume167/number12/27823-2017914492",
+    "title": "Dependency Parsing using the URDU.KON-TB Treebank",
+    "snippet": "In this paper, we present evaluation of URDU.KON-TB in the dependency parsing domain. The URDU.KON-TB treebank is developed on the bases of the phrase ...",
+    "host": "ijcaonline.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://kops.uni-konstanz.de/entities/publication/e0084197-6362-433b-ab56-ce5996f39122",
+    "title": "Dependency Parsing for Urdu : Resources, Conversions and Learning",
+    "snippet": "This paper adds to the available resources for the under-resourced language Urdu by converting different types of existing treebanks for Urdu into a common ...",
+    "host": "kops.uni-konstanz.de",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://www.researchgate.net/publication/381471415_Exploring_Syntactic_Patterns_in_Urdu_A_Deep_Dive_into_Dependency_Analysis",
+    "title": "Exploring Syntactic Patterns in Urdu: A Deep Dive into Dependency",
+    "snippet": "The URDU.KON-TB treebank is developed on the bases of the phrase structure and hyper dependency structure which are only functional constituent's label.",
+    "host": "www.researchgate.net",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://www.semanticscholar.org/paper/Building-Computational-Resources%3A-The-URDU.KON-TB-Abbas/f5ebcb1472672364eac79eadd6f41db16509b63f",
+    "title": "The URDU.KON-TB Treebank and the Urdu Parser - Semantic Scholar",
+    "snippet": "This work presents the development of the URDU.KON-TB treebank, its annotation evaluation & guidelines and the construction of the Urdu parser for a South ...",
+    "host": "www.semanticscholar.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dependency_parsing_treeba",
+    "url": "https://d-nb.info/1278248498/34",
+    "title": "[PDF] Dependency Parsing for Urdu: Resources, Conversions and Learning",
+    "snippet": "May 16, 2020 · The Stanford parser (Klein and Manning,. 2003) together with functional labels produces a functional accuracy of 68.3% on a PS Urdu treebank. On ...",
+    "host": "d-nb.info",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dialogue_system_chatbot_c",
+    "url": "https://www.futurebeeai.com",
+    "title": "Urdu Agent-Customer Chat Dataset for Healthcare Domain",
+    "snippet": "This dataset features Urdu text-based chat conversations between customers and call center agents, specifically focused on healthcare-related interactions.",
+    "host": "www.futurebeeai.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dialogue_system_chatbot_c",
+    "url": "https://ideas.repec.org",
+    "title": "AI-Powered Chatbot for Conversational Understanding",
+    "snippet": "by A Hakeem · 2025 · Cited by 1 — This research aims to develop an intelligent AI chatbot that can understand and respond accurately in Roman Urdu . To achieve this, we will use advanced AI ... Read more",
+    "host": "ideas.repec.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_dialogue_system_chatbot_c",
+    "url": "https://play.google.com/store/apps/details?id=com.urduai.chatassistant.urdugpt&hl=en_IN",
+    "title": "Urdu Chat Ai: Smart Assistant",
+    "snippet": "Whether you want to ask questions in Urdu, get explanations, learn something new, or enjoy natural conversations, Urdu Assistant Chatbot delivers fast, clear, ... Read more",
+    "host": "play.google.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_discourse_RST_parsing",
+    "url": "https://www.alphaxiv.org",
+    "title": "RST-style Discourse Parsing Guided by Document-level",
+    "snippet": "Sep 8, 2023 — Discourse Parsing (RST-DP ) explores how clauses, sentences, and large text spans compose a whole discourse and presents the rhetorical ...",
+    "host": "www.alphaxiv.org",
+    "date": "Sep 8, 2023"
+  },
+  {
+    "topic": "Urdu_discourse_RST_parsing",
+    "url": "https://hal.science",
+    "title": "Cross-lingual RST Discourse Parsing",
+    "snippet": "by C Braud · 2017 · Cited by 120 — Discourse parsing is an integral part of understanding information flow and argumentative structure in documents. Brazilian Portuguese.",
+    "host": "hal.science",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_discourse_RST_parsing",
+    "url": "https://repository.digital.georgetown.edu",
+    "title": "Cross-Paragraph Discourse Structure in Rhetorical Structure",
+    "snippet": "by S Peng · 2023 · Cited by 3 — this dissertation examines how macro-level discourse relations are presented in RST and whether state-of-the-art RST parsers capture them ...",
+    "host": "repository.digital.georgetown.edu",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_UrduFakeNet",
+    "url": "https://ceur-ws.org",
+    "title": "Urdu Fake News Detection using TF-IDF Features and",
+    "snippet": "by MA Ilyas · 2021 · Cited by 2 — The results of the experiments has shown that TextCNN with TF-IDF is the most effective technique that achieved an accuracy of 0.716 and macro average F1 score ... Read more 7 pages",
+    "host": "ceur-ws.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_UrduFakeNet",
+    "url": "https://www.computer.org",
+    "title": "Ax-to-Grind Urdu: Benchmark Dataset for Urdu Fake News",
+    "snippet": "It constitutes 10,083 fake and real news on fifteen domains collected from leading and authentic Urdu newspapers and news channel websites in Pakistan and India ... Read more",
+    "host": "www.computer.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10280395",
+    "title": "Fake news detection in Urdu language using machine learning - PMC",
+    "snippet": "May 23, 2023 · The published fake news data from the English language has been converted into the Urdu language with manual verification. If any news does not ... Missing: misinformation | Show results with: misinformation",
+    "host": "pmc.ncbi.nlm.nih.gov",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://arxiv.org/abs/2410.19517",
+    "title": "Detection of Human and Machine-Authored Fake News in Urdu - arXiv",
+    "snippet": "Oct 25, 2024 · we updated detection schema to include machine-generated news with focus on the Urdu language. We further propose a hierarchical detection",
+    "host": "arxiv.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://techxplore.com/news/2026-03-ai-urdu-news-stories-misinformation.html",
+    "title": "AI model trained on 14,000 Urdu news stories spots misinformation",
+    "snippet": "Mar 18, 2026 · A deep learning model trained on more than 14,000 Pakistani news articles can spot misinformation with 96% accuracy, according to a new ...",
+    "host": "techxplore.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://www.nature.com/articles/s41598-026-36771-0",
+    "title": "Verifying Urdu news authenticity using deep learning with  - Nature",
+    "snippet": "Feb 5, 2026 · This work aims to create a complete fake news detection mechanism for Pakistani news by using many fact-checked APIs. A total of 14,178 real ...",
+    "host": "www.nature.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://aclanthology.org/2025.acl-long.170",
+    "title": "Detection of Human and Machine-Authored Fake News in Urdu",
+    "snippet": "we updated the detection schema to include machine-generated news focusing on Urdu. We further propose a conjoint detection strategy to improve the accuracy ...",
+    "host": "aclanthology.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://ceur-ws.org/Vol-3159/T7-11.pdf",
+    "title": "[PDF] Fake News Detection in Urdu Language using BERT - CEUR-WS.org",
+    "snippet": "The current study focuses on detecting Fake News in the Urdu language using Machine and Deep learning techniques. The 'UrduFake' data is used in this research, Missing: misinformation | Show results with: misinformation",
+    "host": "ceur-ws.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://norma.ncirl.ie/8739",
+    "title": "Automated Detection of Fake News in Urdu Language Using Pre",
+    "snippet": "Sep 3, 2025 · This study explores fake news classification in Urdu using three state-of-the-art (SOTA) pre-trained multilingual transformer modelsi.e. mBERT, ...",
+    "host": "norma.ncirl.ie",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://www.mdpi.com/2078-2489/16/7/595",
+    "title": "Detecting Fake News in Urdu Language Using Machine Learning",
+    "snippet": "Fake news is false or misleading information that looks like real news and spreads. Urdu is the main language, finding fake news in Urdu is difficult because ...",
+    "host": "www.mdpi.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://www.hw.ac.uk/news/2026/new-ai-could-stop-fake-news-in-urdu",
+    "title": "New AI could stop fake news in Urdu | Heriot-Watt University",
+    "snippet": "Mar 18, 2026 · A deep learning model trained on more than 14,000 Pakistani news articles can spot misinformation with 96% accuracy, according to a new ...",
+    "host": "www.hw.ac.uk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_fake_news_detection_misin",
+    "url": "https://www.linkedin.com/posts/attiya-yaqoob_machinelearning-nlp-fakenewsdetection-activity-7431276492870979584-2ctv",
+    "title": "Urdu Fake News Detector with Real-Time Analysis - LinkedIn",
+    "snippet": "Feb 22, 2026 · Real-Time Fake News Detection in Urdu** I just built a demo that can **automatically detect fake and real news** in Urdu articles.",
+    "host": "www.linkedin.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_information_retrieval_IR_",
+    "url": "https://onlinelibrary.wiley.com",
+    "title": "Building a text collection for Urdu information retrieval",
+    "snippet": "by I Rasheed · 2021 · Cited by 18 — The corpus presented here is intended to fill the gap in IR research on Urdu for experimentation and evaluation on a scale that has never been ...",
+    "host": "onlinelibrary.wiley.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_information_retrieval_IR_",
+    "url": "https://www.sciencedirect.com",
+    "title": "Towards building Urdu language document retrieval",
+    "snippet": "by S Kazi · 2026 · Cited by 3 — This study introduces U-RR2 ( Urdu Document Retrieval & Ranking Framework), a two-stage retrieval framework integrating traditional IR models with advanced ...",
+    "host": "www.sciencedirect.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_information_retrieval_IR_",
+    "url": "https://zilliz.com",
+    "title": "What is Information Retrieval? A Comprehensive Guide. - Zilliz",
+    "snippet": "Aug 10, 2024 — Information retrieval (IR ) is the process of efficiently retrieving relevant information from large collections of unstructured or ...",
+    "host": "zilliz.com",
+    "date": "Aug 10, 2024"
+  },
+  {
+    "topic": "Urdu_language_LLM_large_langua",
+    "url": "https://eng.auburn.edu",
+    "title": "Graduate student in computer science and software",
+    "snippet": "Jan 26, 2026 — Qalb, the world's largest Large Language Model (LLM ) exclusively for the Urdu language, which generates fluent, natural and instruction- ...",
+    "host": "eng.auburn.edu",
+    "date": "Jan 26, 2026"
+  },
+  {
+    "topic": "Urdu_language_LLM_large_langua",
+    "url": "https://www.siliconflow.com",
+    "title": "Ultimate Guide - Best Open Source LLM for Urdu in 2026",
+    "snippet": "Open source LLMs for Urdu are large language models specifically designed or optimized to understand, generate, and process Urdu text with high accuracy. Read more",
+    "host": "www.siliconflow.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_language_LLM_large_langua",
+    "url": "https://blog.traversaal.ai",
+    "title": "Our First Urdu LLM outperforming other Open Source LLMs",
+    "snippet": "Feb 18, 2026 — Alif 1.0, our first-ever Urdu-English LLM , for 250 million Urdu speakers worldwide. ensuring robust Urdu-language LLM development.",
+    "host": "blog.traversaal.ai",
+    "date": "Feb 18, 2026"
+  },
+  {
+    "topic": "Urdu_machine_transliteration",
+    "url": "https://journals.umt.edu.pk",
+    "title": "Roman Urdu to Urdu Machine Transliteration by Using T5",
+    "snippet": "by U Ahmed · 2025 — This method transforms the syntax of a text in resource speech into characters of the target language, known as machine transliteration . Recent ...",
+    "host": "journals.umt.edu.pk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_machine_transliteration",
+    "url": "https://hsajjad.github.io",
+    "title": "Hindi to Urdu Machine Translation Through Transliteration",
+    "snippet": "by N Durrani · Cited by 80 — We present a novel approach to integrate transliteration into Hindi-to-Urdu statisti- cal machine translation . We propose two probabilistic models, based on ...",
+    "host": "hsajjad.github.io",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_morphological_analyzer_SP",
+    "url": "https://papers.ssrn.com",
+    "title": "A Deterministic Finite-State Morphological Analyzer for",
+    "snippet": "by A Alblwi · 2023 · Cited by 11 — The morphological analyzer is a computational process that combines lemmas with other linguistic features to produce new lexical word forms. Read more",
+    "host": "papers.ssrn.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_morphological_analyzer_SP",
+    "url": "https://publishup.uni-potsdam.de",
+    "title": "Developing a finite-state morphological analyzer for Urdu and",
+    "snippet": "by T Bögel · 2008 · Cited by 57 — We introduce and discuss a number of issues that arise in the process of building a finite-state morphological analyzer for Urdu ,",
+    "host": "publishup.uni-potsdam.de",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_morphological_analyzer_SP",
+    "url": "https://ling.sprachwiss.uni-konstanz.de",
+    "title": "Developing a Finite-State Morphological Analyzer for Urdu",
+    "snippet": "by T Bögel · Cited by 57 — In this paper we have introduced and addressed a number of issues that arise in the pro- cess of building a finite-state morphological analyzer for Urdu . Read more",
+    "host": "ling.sprachwiss.uni-konstanz.de",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_news_classification_BBC",
+    "url": "https://jceps.utq.edu.iq",
+    "title": "News Classification by N-Gram and Machine Learning",
+    "snippet": "by MF Ogaib · 2022 · Cited by 1 — News is information obtained from different sources such as television, internet, , “ Urdu News Classification using Application of Machine ...",
+    "host": "jceps.utq.edu.iq",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_news_classification_BBC",
+    "url": "https://www.bbc.com",
+    "title": "Pakistani government criticises nine BBC Urdu job cuts",
+    "snippet": "Jun 28, 2013 — The Pakistani government criticises a decision by the BBC Urdu Service to terminate the jobs of nine senior reporters across the country.",
+    "host": "www.bbc.com",
+    "date": "Jun 28, 2013"
+  },
+  {
+    "topic": "Urdu_news_headline_sarcasm_det",
+    "url": "https://revistas.usal.es",
+    "title": "Sarcasm Text Detection on News Headlines Using Novel",
+    "snippet": "by N Singh · Cited by 12 — To identify humorous news headlines , this article assessed vectorization algorithms and several machine learning models. The recommended hybrid technique",
+    "host": "revistas.usal.es",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_news_headline_sarcasm_det",
+    "url": "https://research.uaeu.ac.ae",
+    "title": "Detection of Sarcasm in News Headlines Using NLP and",
+    "snippet": "by A Mansoori · 2025 · Cited by 3 — This paper introduces a deep learning-based sarcasm detection model specifically designed to classify sarcastic and non-sarcastic news headlines.",
+    "host": "research.uaeu.ac.ae",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_news_headline_sarcasm_det",
+    "url": "https://sentic.net",
+    "title": "Sarcasm Detection in News Headlines using Supervised",
+    "snippet": "by AK Jayaraman · Cited by 20 — In this paper, the authors aim to identify sarcasm in news headlines using supervised learning. We address this task with the Bag-of-words features, context- ... Read more",
+    "host": "sentic.net",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_news_headline_sarcasm_det",
+    "url": "https://rishabhmisra.github.io",
+    "title": "News Headlines Dataset For Sarcasm Detection",
+    "snippet": "by R Misra · Cited by 39 — To overcome the limitations related to noise in Twitter datasets, we curate News Headlines Dataset from two news websites: TheOnion aims at producing sarcastic ... Read more",
+    "host": "rishabhmisra.github.io",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_paraphrasing_detection_pa",
+    "url": "https://paraphrasetool.com",
+    "title": "Rephrase Sentences Online — Free AI Paraphraser",
+    "snippet": "Just paste or start writing your text in our input box above , and our best in class AI will help you to generate the best paraphrases from your original ...",
+    "host": "paraphrasetool.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_paraphrasing_detection_pa",
+    "url": "https://textgens.com",
+    "title": "Urdu Paraphraser (Free Online & No Signup)",
+    "snippet": "Instantly rewrite up to 5000 Urdu words at a time with the #1 free AI-powered Urdu paraphrasing tool. With a single click, you can rephrase sentences,",
+    "host": "textgens.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_paraphrasing_detection_pa",
+    "url": "https://www.cambridge.org",
+    "title": "Urdu paraphrase detection: A novel DNN-based",
+    "snippet": "by HR Iqbal · 2024 · Cited by 11 — D-TRAPPD , a computationally expensive approach, is presented and fine-tuned to detect paraphrasing in Urdu text pairs.",
+    "host": "www.cambridge.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_paraphrasing_detection_pa",
+    "url": "https://evernote.com",
+    "title": "Paraphrase Urdu Text with AI",
+    "snippet": "Use our AI tool to rewrite and paraphrase Urdu text online, easily and efficiently maintain the original meaning. Free to use.",
+    "host": "evernote.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_pun_generation_humor_dete",
+    "url": "https://europeanjournalofhumour.org",
+    "title": "Towards the automatic detection and identification of English",
+    "snippet": "by T Miller · 2016 · Cited by 35 — This deliberate use of lexical ambiguity — i.e. punning — is a particularly common source of humour , and therefore has important implications ... Read more",
+    "host": "europeanjournalofhumour.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_pun_generation_humor_dete",
+    "url": "https://digitalcommons.harrisburgu.edu",
+    "title": "Humor Detection",
+    "snippet": "by M Jain · 2017 · Cited by 2 — Frontrunners are the Word2Vec, Twitter word indexing power, Mihalcea and Strapparava's dataset of puns and humorous one- liners intended for supervised learning ... Read more 61 pages",
+    "host": "digitalcommons.harrisburgu.edu",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_pun_generation_humor_dete",
+    "url": "https://computationalcreativity.net",
+    "title": "Computational Humor: Automated Pun Generation",
+    "snippet": "by B Tyler · Cited by 8 — Our main interest of PAUL BOT is to create puns that users find humorous in some way. In this paper, we focus on the design of the PAUL BOT system and the ... Read more 4 pages",
+    "host": "computationalcreativity.net",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_semantic_similarity_STS",
+    "url": "https://support.google.com/webmasters/answer/7489871?hl=en",
+    "title": "LDS.org - The Church of Jesus Christ of Latter-day Saints",
+    "snippet": "No information is available for this page. Learn why",
+    "host": "support.google.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_semantic_similarity_STS",
+    "url": "https://www.youtube.com",
+    "title": "STS Telecom",
+    "snippet": "Hey everyone. I post mostly board-level repair content on semi-modern devices. Today's electronics are quite small so most of what you see here is done ... Read more",
+    "host": "www.youtube.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_semantic_similarity_STS",
+    "url": "https://www.miamidade.gov",
+    "title": "Special Transportation Service (STS)",
+    "snippet": "STS is a shared-ride public transportation service of Miami-Dade County. The cost per trip is $3.50. Call 305-871-1111 /",
+    "host": "www.miamidade.gov",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_semantic_similarity_STS",
+    "url": "https://www.st.com",
+    "title": "STMicroelectronics: Our technology starts with you",
+    "snippet": "ST is a global high-tech company creating semiconductor technologies for a smarter, greener, and more sustainable future.",
+    "host": "www.st.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_semantic_similarity_STS",
+    "url": "https://www.sts.org",
+    "title": "STS National Database",
+    "snippet": "STS National Database . The premier cardiothoracic surgery clinical outcomes registry, with nationally recognized quality performance measures for adult cardiac, ... Read more",
+    "host": "www.sts.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://ieeexplore.ieee.org/document/9345887",
+    "title": "Sentiment Analysis of Code-Mixed Roman Urdu-English Social",
+    "snippet": "The results reveal that performance of XLM-R model with tuned hyperparameters for code-mixed Roman Urdu and English social media text is better than the mBERT ...",
+    "host": "ieeexplore.ieee.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://ceur-ws.org/Vol-3395/T4-9.pdf",
+    "title": "[PDF] Advantages of XLM-R Model for Urdu Sentiment Multi- Classification",
+    "snippet": "XLM-R model has a strong normalization ability for non-mainstream languages like Urdu, and can well meet the needs of the task after learning rate tuning, so we ...",
+    "host": "ceur-ws.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://huggingface.co/Khubaib01/roman-urdu-sentiment-xlm-r",
+    "title": "Khubaib01/roman-urdu-sentiment-xlm-r - Hugging Face",
+    "snippet": "This model performs sentiment classification on Roman Urdu text, labeling input sentences as Positive, Negative, or Neutral. It is fine-tuned from xlm-roberta- ...",
+    "host": "huggingface.co",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://osuva.uwasa.fi/server/api/core/bitstreams/e62ddf33-6984-4fd3-8f08-121a01a1e146/content",
+    "title": "[PDF] Revolutionizing Urdu Sentiment Analysis: Harnessing the Power of",
+    "snippet": "This paper proposes an Urdu sentiment analysis approach leveraging the transformer model, i.e., XLM-R and GPT-2. It preprocesses the Urdu text input, generates.",
+    "host": "osuva.uwasa.fi",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://www.researchgate.net/publication/374464961_BERT-Based_Sentiment_Analysis_for_Low-Resourced_Languages_A_Case_Study_of_Urdu_Language",
+    "title": "BERT-Based Sentiment Analysis for Low-Resourced Languages",
+    "snippet": "Aug 12, 2026 · Researchers have employed models such as mBERT, XLM-RoBERTa, and GPT-2 for Urdu sentiment analysis, yielding promising results (Ashraf et al ...",
+    "host": "www.researchgate.net",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8971433",
+    "title": "Multi-class sentiment analysis of urdu text using multilingual BERT",
+    "snippet": "Mar 31, 2022 · The main goal of this research study is to create a manually annotated dataset for Urdu sentiment analysis and to set baseline results using ...",
+    "host": "pmc.ncbi.nlm.nih.gov",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://dl.acm.org/doi/10.1145/3777555.3777560",
+    "title": "A Novel Explainable Framework for Sentiment Analysis on Bangla",
+    "snippet": "Dec 17, 2025 · To address these issues, we propose XLM-RoBERTa-LIME, an explainable framework for sentiment analysis on Bangla–English–Hindi code-mixed text.",
+    "host": "dl.acm.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7015498.pdf?abstractid=7015498&mirid=1",
+    "title": "[PDF] Sentiment Analysis of Roman Urdu Social Media Text Using  - SSRN",
+    "snippet": "The very first transformer-based benchmark of sentiment analysis in Roman Urdu, fine-tuning and evaluating. mBERT [10], XLM-RoBERTa [11] and UrduBERT under.",
+    "host": "papers.ssrn.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://www.emergentmind.com/topics/xlm-r",
+    "title": "XLM-R: Multilingual Transformer Model - Emergent Mind",
+    "snippet": "Oct 5, 2025 · XLM-R is a Transformer-based multilingual model pre-trained on 100 languages, excelling in cross-lingual understanding and low-resource ...",
+    "host": "www.emergentmind.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_sentiment_BERT_mBERT_XLM-",
+    "url": "https://medium.com/analytics-vidhya/guessing-sentiment-in-100-languages-4574ceed3b67",
+    "title": "Guessing Sentiment in 100 Languages | by Sayak Misra - Medium",
+    "snippet": "Jul 25, 2020 · To conclude the discussion we can safely say XLM-RoBERTa is the better choice for zero-shot multi-lingual tasks, though mBERT is also not far ...",
+    "host": "medium.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://www.notta.ai/en/translate-audio/translate-urdu-audio-to-english",
+    "title": "Translate Urdu Audio to English - Fast & AI-Powered - Notta",
+    "snippet": "Notta is an AI-powered audio translator that allows you to quickly turn Urdu audio into English text. Accurate, fast, and affordable.",
+    "host": "www.notta.ai",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://play.google.com/store/apps/details?id=uren.urdutoenglishtranslator.englishtourdutranslation&hl=en_US",
+    "title": "Urdu English Voice Translator - Apps on Google Play",
+    "snippet": "Sep 15, 2025 · Urdu - English translator app is a free voice translator as well as text translator which translate Urdu to English or English to Urdu. Urdu - ...",
+    "host": "play.google.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://maestra.ai/tools/audio-translator/english-to-urdu",
+    "title": "Translate English Audio to Urdu Online | AI-Driven & Quick",
+    "snippet": "Translate English to Urdu audio using realistic AI voices, voice cloning and lip sync. Available in 125+ languages with a free trial.",
+    "host": "maestra.ai",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://apps.apple.com/ae/app/english-urdu-speech-translator/id1262351608",
+    "title": "English Urdu Speech Translator - App Store - Apple",
+    "snippet": "All you need to do is to install the app on your phone and translate any of your English text into Urdu and similarly translate urdu into English on your phone.",
+    "host": "apps.apple.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://www.kapwing.com/tools/translate/audio/Urdu-to-english",
+    "title": "Translate Urdu Audio To English - Kapwing",
+    "snippet": "Rating 4.9 (5,231) Instantly translate Urdu audio to English. Convert Urdu MP3s and uploads into subtitles, dubbing, or text transcripts using our online audio translator.",
+    "host": "www.kapwing.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://www.youtube.com/watch?v=9hCQ0BNhF3U",
+    "title": "500 English Speaking Practice Sentences in Urdu Translation",
+    "snippet": "Nov 23, 2021 · 500 English Speaking Practice Sentences in Urdu Translation for Daily use spoken English. These are the most frequently use English to Urdu ...",
+    "host": "www.youtube.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://translate.jotme.io/live-translation/english-to-urdu",
+    "title": "English to Urdu Voice Translator Online - JotMe",
+    "snippet": "Translate English speech to Urdu text live in your browser. Use your microphone and follow the transcript and translation. Try it free, no signup.",
+    "host": "translate.jotme.io",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://aclanthology.org/2025.iwslt-1.12.pdf",
+    "title": "[PDF] Human-Evaluated Urdu-English Speech Corpus - ACL Anthology",
+    "snippet": "Jul 21, 2025 · Speech translation (ST) is a key area of speech and natural language processing that involves translat- ing spoken content across languages ( ...",
+    "host": "aclanthology.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://www.narakeet.com/languages/urdu-text-to-speech",
+    "title": "Urdu Text to Speech Voices - Narakeet",
+    "snippet": "Text to speech Urdu. Easily convert text to speech in Urdu, and 100 more languages. Try our Urdu text to speech free online. No registration required.",
+    "host": "www.narakeet.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_speech_translation_spoken",
+    "url": "https://www.transyncai.com/languages/urdu",
+    "title": "Translate to Urdu in real time - Transync AI",
+    "snippet": "Use Transync AI to translate speech, meetings, and conversations into Urdu with live subtitles, AI voice playback, and automatic meeting notes. Register now to ...",
+    "host": "www.transyncai.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_spell_checking_correction",
+    "url": "https://tech.cle.org.pk",
+    "title": "CLE Urdu Spell Checking Service",
+    "snippet": "CLE Urdu Spell Check Service provides assistance for verifying spellings of Urdu Language. It accepts Urdu text as input and checks it for spelling errors. Read more",
+    "host": "tech.cle.org.pk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_spell_checking_correction",
+    "url": "https://www.gotranslate.in",
+    "title": "Urdu Spell Checker Online Free — Fix Spelling Errors Instantly",
+    "snippet": "Catch every spelling mistake in your Urdu text with our free spell checker . GoTranslate uses AI to detect misspelled words and suggest correct Urdu spellings. Read more",
+    "host": "www.gotranslate.in",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_spell_checking_correction",
+    "url": "https://extensions.openoffice.org",
+    "title": "Urdu Spellchecker Dictionary",
+    "snippet": "Jun 16, 2009 — The spell checker combines multiple word lists for the dictionary. ... Urdu word list provided at the web site of Center for Research in Urdu ... Read more",
+    "host": "extensions.openoffice.org",
+    "date": "Jun 16, 2009"
+  },
+  {
+    "topic": "Urdu_stemming_lemmatization_mo",
+    "url": "https://www.scilit.com",
+    "title": "Methods for Creating a Morphological Analyzer",
+    "snippet": "A Syntactically Expressive Morphological Analyzer for Turkish. 2019 ; An improved Urdu stemming algorithm for text mining based on multi-step hybrid approach. Read more",
+    "host": "www.scilit.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_text_generation_NLG",
+    "url": "https://data.mendeley.com",
+    "title": "Urdu News Dataset 1M",
+    "snippet": "Jan 13, 2021 — This dataset offers above 1 Million Urdu news stories text corpus for four distinct categories: Business & Economics, Science & Technology, ... Read more",
+    "host": "data.mendeley.com",
+    "date": "Jan 13, 2021"
+  },
+  {
+    "topic": "Urdu_text_simplification",
+    "url": "https://lrec.elra.info",
+    "title": "SimplifyUR: Unsupervised Lexical Text Simplification for Urdu",
+    "snippet": "SimplifyUR: Unsupervised Lexical Text Simplification for Urdu . Request Correction. Proceedings of the Twelfth International Conference on Language Resources ... Read more",
+    "host": "lrec.elra.info",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_text_simplification",
+    "url": "https://lamarr-institute.org",
+    "title": "Text Simplification and Machine Learning Methods",
+    "snippet": "Nov 15, 2023 — We explain why text simplification is socially relevant and how ML methods can help with implementation.",
+    "host": "lamarr-institute.org",
+    "date": "Nov 15, 2023"
+  },
+  {
+    "topic": "Urdu_tokenization_word_segment",
+    "url": "https://journals.mmupress.com",
+    "title": "Knowledge-based Word Tokenization System for Urdu",
+    "snippet": "Jun 13, 2024 — This study introduces a novel knowledge-based word tokenization system tailored for Urdu . Central to this system is a maximum matching model ... Read more",
+    "host": "journals.mmupress.com",
+    "date": "Jun 13, 2024"
+  },
+  {
+    "topic": "Urdu_tokenization_word_segment",
+    "url": "https://elmi.hbku.edu.qa",
+    "title": "Urdu word segmentation",
+    "snippet": "N2 - Word Segmentation is the foremost obligatory task in almost all the NLP applications where the initial phase requires tokenization of input into words. Read more",
+    "host": "elmi.hbku.edu.qa",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_classification_aggl",
+    "url": "https://journals.au.edu.pk",
+    "title": "A Computational Approach to Understanding Agglutinative",
+    "snippet": "This study investigates the computational challenges and opportunities presented by the agglutinative structures in Urdu , a language characterized by its ... Read more",
+    "host": "journals.au.edu.pk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_classification_aggl",
+    "url": "https://ppaspk.org",
+    "title": "Improving Roman Urdu Topic Classification through Custom",
+    "snippet": "by M Aqeel · 2025 — This paper proposes a strong topic - classification framework for Roman Urdu , integrating Stochastic Gradient Descent (SGD)-optimized machine ... Read more",
+    "host": "ppaspk.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_classification_aggl",
+    "url": "https://indjst.org",
+    "title": "Multi-text classification of Urdu/Roman using machine",
+    "snippet": "The main purpose of this work is to classify multi-text for Urdu and Roman language using Natural Language processing and Machine Learning classification models ... Read more",
+    "host": "indjst.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.semanticscholar.org/paper/A-framework-of-Urdu-topic-modeling-using-latent-Shakeel-Tahir/9b9e7c9784c420d7c6803350785833c1ead19976",
+    "title": "A framework of Urdu topic modeling using latent dirichlet allocation",
+    "snippet": "The proposed Topic Model for Urdu is a framework that combine pre-processing techniques, LDA model and Gibbs sampling and is named Urdu Latent Dirichlet ...",
+    "host": "www.semanticscholar.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1319157820304468",
+    "title": "Cluster analysis of urdu tweets - ScienceDirect.com",
+    "snippet": "This work presents an experimental evaluation of clustering techniques on Urdu tweets. Dirichlet Allocation (LDA) is a popular statistical technique for topic ...",
+    "host": "www.sciencedirect.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.mdpi.com/2078-2489/11/11/518",
+    "title": "Urdu Documents Clustering with Unsupervised and Semi  - MDPI",
+    "snippet": "Nov 5, 2020 · In this study, we proposed a semi-supervised framework for Urdu documents clustering to deal with the Urdu morphology challenges. The proposed ...",
+    "host": "www.mdpi.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://medium.com/data-science/practical-guide-to-topic-modeling-with-lda-05cd6b027bdf",
+    "title": "Practical Guide to Topic Modeling with LDA - Medium",
+    "snippet": "Jan 6, 2024 · Latent Dirichlet Allocation (LDA for short) is a mixed-membership (“soft clustering”) model that's classically used to infer what a document is ...",
+    "host": "medium.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.kaggle.com/code/panks03/clustering-with-topic-modeling-using-lda",
+    "title": "Clustering with Topic Modeling using LDA - Kaggle",
+    "snippet": "For topic modeling, we will use the infamous LDA (Latent Dirichlet Allocation) algorithm. In LDA, each document can be described by a distribution of topics and ...",
+    "host": "www.kaggle.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.academia.edu/67596628/Finding_Topics_in_Urdu_A_Study_of_Applicability_of_Document_Clustering_in_Urdu_Language",
+    "title": "A Study of Applicability of Document Clustering in Urdu Language",
+    "snippet": "In this research, we present the results of a study conducted to ascertain the applicability of document clustering techniques on Urdu Language corpus.",
+    "host": "www.academia.edu",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://indjst.org/articles/a-comparison-of-topic-modelling-approaches-for-urdu-text",
+    "title": "A Comparison of Topic Modelling Approaches for Urdu Text",
+    "snippet": "We experimented topic modelling approaches for Urdu poetry text to show that these approaches perform equally well in any genre of text.",
+    "host": "indjst.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.youtube.com/watch?v=o7OqhzMcDfs",
+    "title": "What is Laten Dirichlet Allocation LDA (Topic Modeling for Digital",
+    "snippet": "Feb 23, 2021 · In this video, we explore LDA Topic Modeling. LDA stands for Laten Dirichlet Allocation. This is a way of identifying multiple topics in ...",
+    "host": "www.youtube.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.ibm.com/think/topics/latent-dirichlet-allocation",
+    "title": "What is Latent Dirichlet allocation - IBM",
+    "snippet": "Latent Dirichlet allocation is a topic modeling technique for uncovering the central topics and their distributions across a set of documents.",
+    "host": "www.ibm.com",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_topic_modeling_LDA_cluste",
+    "url": "https://www.researchgate.net/publication/387143572_Topic_Modeling_for_Urdu_Articles_using_Unsupervised_Learning_Approaches",
+    "title": "Topic Modeling for Urdu Articles using Unsupervised Learning",
+    "snippet": "Dec 18, 2024 · This paper introduces an unsupervised learning-based topic modeling approach for Urdu documents, a language with limited resources. By ...",
+    "host": "www.researchgate.net",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_word_embedding_word2vec_f",
+    "url": "https://ar5iv.labs.arxiv.org",
+    "title": "Co-occurrences using Fasttext embeddings for word similarity",
+    "snippet": "For Urdu , we can only find word embeddings trained and developed using the skip-gram model. In this paper, we have built a corpus for Urdu by scraping and ... Read more",
+    "host": "ar5iv.labs.arxiv.org",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_word_embedding_word2vec_f",
+    "url": "https://fasttext.cc",
+    "title": "Word vectors for 157 languages",
+    "snippet": "We distribute pre-trained word vectors for 157 languages , trained on Common Crawl and Wikipedia using fastText. The word vectors are available in both binary ...",
+    "host": "fasttext.cc",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_word_sense_disambiguation",
+    "url": "https://eprints.whiterose.ac.uk",
+    "title": "A word sense disambiguation corpus for Urdu",
+    "snippet": "by A Saeed · 2019 · Cited by 27 — The focus of this paper is on the Lexical Sample WSD task for Urdu , a widely spoken but under-resourced South Asian language. Urdu is an Indo-Aryan language ... Read more 23 pages",
+    "host": "eprints.whiterose.ac.uk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_word_sense_disambiguation",
+    "url": "https://research.lancaster-university.uk",
+    "title": "A Sense Annotated Corpus for All-Words Urdu",
+    "snippet": "by A Saeed · 2019 · Cited by 29 — The corpus contains 5,042 words of Urdu running text in which all ambiguous words (856 instances) are manually tagged with senses from the Urdu ...",
+    "host": "research.lancaster-university.uk",
+    "date": ""
+  },
+  {
+    "topic": "Urdu_word_sense_disambiguation",
+    "url": "https://repository.cuilahore.edu.pk",
+    "title": "Urdu Word Sense Disambiguation using Siamese Neural",
+    "snippet": "Feb 11, 2026 — The process of Word Sense Disambiguation (WSD) is to recognize the exact sense of the targeted polysemous terms in the given context. Word sense",
+    "host": "repository.cuilahore.edu.pk",
+    "date": "Feb 11, 2026"
+  },
+  {
+    "topic": "Urdu_word_sense_disambiguation",
+    "url": "https://www.geeksforgeeks.org",
+    "title": "Word Sense Disambiguation in Natural Language",
+    "snippet": "Jul 3, 2026 — Word Sense Disambiguation (WSD ) focuses on determining the correct meaning of a word when it has multiple possible interpretations. Read more",
+    "host": "www.geeksforgeeks.org",
+    "date": "Jul 3, 2026"
+  },
+  {
+    "topic": "asr1",
+    "url": "https://dataoceanai.com",
+    "title": "Urdu Speech Recognition Corpus (Mobile)",
+    "snippet": "Urdu Speech Recognition Corpus (Mobile ) ; Language: Urdu ; Country. Pakistan ; Sample rate & bit depth. 16 kHz,16bit ; Recording environment. quiet (office/home). Read more",
+    "host": "dataoceanai.com",
+    "date": ""
+  },
+  {
+    "topic": "asr1",
+    "url": "https://aikosh.indiaai.gov.in",
+    "title": "Commonvoice Urdu ASR Benchmark Dataset for Speech",
+    "snippet": "Feb 24, 2025 — This is an Urdu ASR benchmark dataset developed to evaluate and improve Automatic Speech Recognition (ASR) systems for the Urdu language.",
+    "host": "aikosh.indiaai.gov.in",
+    "date": "Feb 24, 2025"
+  },
+  {
+    "topic": "mt1",
+    "url": "https://www.naturalspublishing.com",
+    "title": "Information Sciences Letters",
+    "snippet": "This research introduces a specialized NMT model for translating Urdu text to English . It uses a transformer-based method with subword tokenization to improve ... Read more",
+    "host": "www.naturalspublishing.com",
+    "date": ""
+  },
+  {
+    "topic": "ner1",
+    "url": "https://classroom.google.com/u/1/h",
+    "title": "Google Classrooms",
+    "snippet": "No information is available for this page. Learn why",
+    "host": "classroom.google.com",
+    "date": ""
+  },
+  {
+    "topic": "ner1",
+    "url": "https://www.linkedin.com",
+    "title": "LinkedIn Learning: Online Training Courses & Skill Building",
+    "snippet": "Get guidance to develop the critical skills you need to advance your career from the only learning platform informed by the world's largest talent marketplace. Read more",
+    "host": "www.linkedin.com",
+    "date": ""
+  },
+  {
+    "topic": "pos1",
+    "url": "https://pure.ulster.ac.uk",
+    "title": "Reusing Stanford POS Tagger for Tagging Urdu Sentences",
+    "snippet": "by A Naseem · Cited by 3 — The precision of tagging the Urdu sentences by reusing Stanford Part of speech tagger is 96.05 percent. The respected approach can be globally applied to ... Read more",
+    "host": "pure.ulster.ac.uk",
+    "date": ""
+  },
+  {
+    "topic": "pos1",
+    "url": "https://ladal.edu.au",
+    "title": "Part-of-Speech Tagging and Dependency Parsing in R",
+    "snippet": "The process of assigning a word-class label to each token in a text is called part-of-speech tagging, commonly abbreviated as POS - tagging or PoS - tagging . Read more",
+    "host": "ladal.edu.au",
+    "date": ""
+  },
+  {
+    "topic": "pos1",
+    "url": "https://journals.sagepub.com",
+    "title": "A Semi-Automatic Approach to Developing a Large-Scale",
+    "snippet": "by M Ali · 2026 — This paper presents a semi-automatic approach to creating a comprehensive Urdu POS -tagged dataset, addressing the limitations of existing ...",
+    "host": "journals.sagepub.com",
+    "date": ""
+  },
+  {
+    "topic": "resources1",
+    "url": "https://www.indeed.com",
+    "title": "Working at Aramark in Corpus Christi, TX: Employee Reviews",
+    "snippet": "Reviews from Aramark employees about Aramark culture, salaries, benefits, work-life balance, management, job security, and more. Corpus Christi, TX",
+    "host": "www.indeed.com",
+    "date": ""
+  },
+  {
+    "topic": "resources1",
+    "url": "https://www.tamucc.edu",
+    "title": "Finding My Place at Texas A&M University-Corpus Christi",
+    "snippet": "May 13, 2026 — This Saturday, May 16, I will officially have a bachelor's in computer science and be part of the TAMU-CC class of Spring 2026. It is such an ... Read more",
+    "host": "www.tamucc.edu",
+    "date": "May 13, 2026"
+  },
+  {
+    "topic": "resources1",
+    "url": "https://www.ccc.ox.ac.uk",
+    "title": "Professor John Watts",
+    "snippet": "My main interest as a historian lies in the nature and workings of power, structures - institutions, practices, ideas and languages",
+    "host": "www.ccc.ox.ac.uk",
+    "date": ""
+  },
+  {
+    "topic": "sentiment1",
+    "url": "https://archive.ics.uci.edu",
+    "title": "Roman Urdu Sentiment Analysis Dataset (RUSAD)",
+    "snippet": "Aug 14, 2023 — The dataset was gathered to carry out research on the task of sentiment analysis for Roman Urdu . The dataset has two columns. The",
+    "host": "archive.ics.uci.edu",
+    "date": "Aug 14, 2023"
+  },
+  {
+    "topic": "survey1",
+    "url": "https://scholar.hit.edu.cn",
+    "title": "A survey of automatic urdu language processing",
+    "snippet": "by W Anwar · 2006 · Cited by 51 — In this paper we present a survey regarding classification of Urdu language . this survey contains the initial attempts in the development of Urdu language . we ...",
+    "host": "scholar.hit.edu.cn",
+    "date": ""
+  }
+]

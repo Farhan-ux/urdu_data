@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://ieeexplore.ieee.org/document/9345887",
+    "name": "Sentiment Analysis of Code-Mixed Roman Urdu-English Social",
+    "snippet": "The results reveal that performance of XLM-R model with tuned hyperparameters for code-mixed Roman Urdu and English social media text is better than the mBERT ...",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ceur-ws.org/Vol-3395/T4-9.pdf",
+    "name": "[PDF] Advantages of XLM-R Model for Urdu Sentiment Multi- Classification",
+    "snippet": "XLM-R model has a strong normalization ability for non-mainstream languages like Urdu, and can well meet the needs of the task after learning rate tuning, so we ...",
+    "host_name": "ceur-ws.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://huggingface.co/Khubaib01/roman-urdu-sentiment-xlm-r",
+    "name": "Khubaib01/roman-urdu-sentiment-xlm-r - Hugging Face",
+    "snippet": "This model performs sentiment classification on Roman Urdu text, labeling input sentences as Positive, Negative, or Neutral. It is fine-tuned from xlm-roberta- ...",
+    "host_name": "huggingface.co",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://osuva.uwasa.fi/server/api/core/bitstreams/e62ddf33-6984-4fd3-8f08-121a01a1e146/content",
+    "name": "[PDF] Revolutionizing Urdu Sentiment Analysis: Harnessing the Power of",
+    "snippet": "This paper proposes an Urdu sentiment analysis approach leveraging the transformer model, i.e., XLM-R and GPT-2. It preprocesses the Urdu text input, generates.",
+    "host_name": "osuva.uwasa.fi",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/374464961_BERT-Based_Sentiment_Analysis_for_Low-Resourced_Languages_A_Case_Study_of_Urdu_Language",
+    "name": "BERT-Based Sentiment Analysis for Low-Resourced Languages",
+    "snippet": "Aug 12, 2026 · Researchers have employed models such as mBERT, XLM-RoBERTa, and GPT-2 for Urdu sentiment analysis, yielding promising results (Ashraf et al ...",
+    "host_name": "www.researchgate.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8971433",
+    "name": "Multi-class sentiment analysis of urdu text using multilingual BERT",
+    "snippet": "Mar 31, 2022 · The main goal of this research study is to create a manually annotated dataset for Urdu sentiment analysis and to set baseline results using ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org/doi/10.1145/3777555.3777560",
+    "name": "A Novel Explainable Framework for Sentiment Analysis on Bangla",
+    "snippet": "Dec 17, 2025 · To address these issues, we propose XLM-RoBERTa-LIME, an explainable framework for sentiment analysis on Bangla–English–Hindi code-mixed text.",
+    "host_name": "dl.acm.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7015498.pdf?abstractid=7015498&mirid=1",
+    "name": "[PDF] Sentiment Analysis of Roman Urdu Social Media Text Using  - SSRN",
+    "snippet": "The very first transformer-based benchmark of sentiment analysis in Roman Urdu, fine-tuning and evaluating. mBERT [10], XLM-RoBERTa [11] and UrduBERT under.",
+    "host_name": "papers.ssrn.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.emergentmind.com/topics/xlm-r",
+    "name": "XLM-R: Multilingual Transformer Model - Emergent Mind",
+    "snippet": "Oct 5, 2025 · XLM-R is a Transformer-based multilingual model pre-trained on 100 languages, excelling in cross-lingual understanding and low-resource ...",
+    "host_name": "www.emergentmind.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/analytics-vidhya/guessing-sentiment-in-100-languages-4574ceed3b67",
+    "name": "Guessing Sentiment in 100 Languages | by Sayak Misra - Medium",
+    "snippet": "Jul 25, 2020 · To conclude the discussion we can safely say XLM-RoBERTa is the better choice for zero-shot multi-lingual tasks, though mBERT is also not far ...",
+    "host_name": "medium.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

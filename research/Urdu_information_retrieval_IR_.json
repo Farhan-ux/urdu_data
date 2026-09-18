@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://arxiv.org",
+    "name": "An Efficient Indexing and Searching Technique for",
+    "snippet": "by MM Qureshi · 2021 · Cited by 1 — We suggest that our proposed indexing technique will be helpful for fast retrieval of records in searching of Urdu contents. We explore stemming rules only for ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://onlinelibrary.wiley.com",
+    "name": "Building a text collection for Urdu information retrieval",
+    "snippet": "by I Rasheed · 2021 · Cited by 18 — The corpus presented here is intended to fill the gap in IR research on Urdu for experimentation and evaluation on a scale that has never been ...",
+    "host_name": "onlinelibrary.wiley.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Context-aware Urdu Information Retrieval System",
+    "snippet": "by U Shoaib · 2023 · Cited by 7 — Urdu language-based information retrieval system using different techniques related to Web Semantic Search ... search engines for Urdu IR system. After ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com",
+    "name": "Towards building Urdu language document retrieval",
+    "snippet": "by S Kazi · 2026 · Cited by 3 — This study introduces U-RR2 ( Urdu Document Retrieval & Ranking Framework), a two-stage retrieval framework integrating traditional IR models with advanced ...",
+    "host_name": "www.sciencedirect.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) Context Aware Urdu Information Retrieval System",
+    "snippet": "Jul 15, 2026 — Urdu language based information retrieval system using different techniques related to Web Semantic Search Engine architecture is proposed ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 4,
+    "date": "Jul 15, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "(DOC) An Efficient Indexing and Searching Technique for",
+    "snippet": "Indexing techniques are used to improve retrieval of data in response to certain search condition. This paper proposes indexing technique for Urdu language.",
+    "host_name": "www.academia.edu",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ui.adsabs.harvard.edu",
+    "name": "CURE: Collection for Urdu Information Retrieval Evaluation",
+    "snippet": "We select 1,096 unique documents against 50 diverse queries from a large collection of 0.5 million crawled documents using two IR models. The purpose of test ... Read more",
+    "host_name": "ui.adsabs.harvard.edu",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://zilliz.com",
+    "name": "What is Information Retrieval? A Comprehensive Guide. - Zilliz",
+    "snippet": "Aug 10, 2024 — Information retrieval (IR ) is the process of efficiently retrieving relevant information from large collections of unstructured or ...",
+    "host_name": "zilliz.com",
+    "rank": 7,
+    "date": "Aug 10, 2024",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://dl.acm.org",
+    "name": "Urdu Word Sense Disambiguation: Leveraging Contextual",
+    "snippet": "This study addresses the challenge of advancing WSD in Urdu by developing and applying tailored Data Augmentation (DA) techniques.",
+    "host_name": "dl.acm.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://eprints.whiterose.ac.uk",
+    "name": "A word sense disambiguation corpus for Urdu",
+    "snippet": "by A Saeed · 2019 · Cited by 27 — The focus of this paper is on the Lexical Sample WSD task for Urdu , a widely spoken but under-resourced South Asian language. Urdu is an Indo-Aryan language ... Read more 23 pages",
+    "host_name": "eprints.whiterose.ac.uk",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org",
+    "name": "Enhancing Urdu Corpus for Nuanced Word Sense",
+    "snippet": "by S Bibi · 2024 · Cited by 3 — This paper addresses this gap by conducting a thorough examination of existing corpora for WSD in Urdu and presenting the creation of an ... Read more",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://research.lancaster-university.uk",
+    "name": "A Sense Annotated Corpus for All-Words Urdu",
+    "snippet": "by A Saeed · 2019 · Cited by 29 — The corpus contains 5,042 words of Urdu running text in which all ambiguous words (856 instances) are manually tagged with senses from the Urdu ...",
+    "host_name": "research.lancaster-university.uk",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Urdu word sense disambiguation using machine learning",
+    "snippet": "PDF | This paper focuses on the word sense disambiguation (WSD ) problem in the context of Urdu language. Word sense disambiguation (WSD) is a phenomena.",
+    "host_name": "www.researchgate.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scilit.com",
+    "name": "Urdu Word Sense Disambiguation: Leveraging Contextual",
+    "snippet": "This study addresses the challenge of advancing WSD in Urdu by developing and applying tailored Data Augmentation (DA) techniques.",
+    "host_name": "www.scilit.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://manynorms.wordnorms.com",
+    "name": "a word sense disambiguation corpus for urdu",
+    "snippet": "The aim of word sense disambiguation (WSD) is to correctly identify the meaning of a word in context . This corpus contains 50 target words (30 nouns, 11 ...",
+    "host_name": "manynorms.wordnorms.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://repository.cuilahore.edu.pk",
+    "name": "Urdu Word Sense Disambiguation using Siamese Neural",
+    "snippet": "Feb 11, 2026 — The process of Word Sense Disambiguation (WSD) is to recognize the exact sense of the targeted polysemous terms in the given context. Word sense",
+    "host_name": "repository.cuilahore.edu.pk",
+    "rank": 7,
+    "date": "Feb 11, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.geeksforgeeks.org",
+    "name": "Word Sense Disambiguation in Natural Language",
+    "snippet": "Jul 3, 2026 — Word Sense Disambiguation (WSD ) focuses on determining the correct meaning of a word when it has multiple possible interpretations. Read more",
+    "host_name": "www.geeksforgeeks.org",
+    "rank": 8,
+    "date": "Jul 3, 2026",
+    "favicon": ""
+  }
+]

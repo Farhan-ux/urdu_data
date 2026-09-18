@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.semanticscholar.org/paper/A-framework-of-Urdu-topic-modeling-using-latent-Shakeel-Tahir/9b9e7c9784c420d7c6803350785833c1ead19976",
+    "name": "A framework of Urdu topic modeling using latent dirichlet allocation",
+    "snippet": "The proposed Topic Model for Urdu is a framework that combine pre-processing techniques, LDA model and Gibbs sampling and is named Urdu Latent Dirichlet ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1319157820304468",
+    "name": "Cluster analysis of urdu tweets - ScienceDirect.com",
+    "snippet": "This work presents an experimental evaluation of clustering techniques on Urdu tweets. Dirichlet Allocation (LDA) is a popular statistical technique for topic ...",
+    "host_name": "www.sciencedirect.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com/2078-2489/11/11/518",
+    "name": "Urdu Documents Clustering with Unsupervised and Semi  - MDPI",
+    "snippet": "Nov 5, 2020 · In this study, we proposed a semi-supervised framework for Urdu documents clustering to deal with the Urdu morphology challenges. The proposed ...",
+    "host_name": "www.mdpi.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/data-science/practical-guide-to-topic-modeling-with-lda-05cd6b027bdf",
+    "name": "Practical Guide to Topic Modeling with LDA - Medium",
+    "snippet": "Jan 6, 2024 · Latent Dirichlet Allocation (LDA for short) is a mixed-membership (“soft clustering”) model that's classically used to infer what a document is ...",
+    "host_name": "medium.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/code/panks03/clustering-with-topic-modeling-using-lda",
+    "name": "Clustering with Topic Modeling using LDA - Kaggle",
+    "snippet": "For topic modeling, we will use the infamous LDA (Latent Dirichlet Allocation) algorithm. In LDA, each document can be described by a distribution of topics and ...",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu/67596628/Finding_Topics_in_Urdu_A_Study_of_Applicability_of_Document_Clustering_in_Urdu_Language",
+    "name": "A Study of Applicability of Document Clustering in Urdu Language",
+    "snippet": "In this research, we present the results of a study conducted to ascertain the applicability of document clustering techniques on Urdu Language corpus.",
+    "host_name": "www.academia.edu",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://indjst.org/articles/a-comparison-of-topic-modelling-approaches-for-urdu-text",
+    "name": "A Comparison of Topic Modelling Approaches for Urdu Text",
+    "snippet": "We experimented topic modelling approaches for Urdu poetry text to show that these approaches perform equally well in any genre of text.",
+    "host_name": "indjst.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=o7OqhzMcDfs",
+    "name": "What is Laten Dirichlet Allocation LDA (Topic Modeling for Digital",
+    "snippet": "Feb 23, 2021 · In this video, we explore LDA Topic Modeling. LDA stands for Laten Dirichlet Allocation. This is a way of identifying multiple topics in ...",
+    "host_name": "www.youtube.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ibm.com/think/topics/latent-dirichlet-allocation",
+    "name": "What is Latent Dirichlet allocation - IBM",
+    "snippet": "Latent Dirichlet allocation is a topic modeling technique for uncovering the central topics and their distributions across a set of documents.",
+    "host_name": "www.ibm.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/387143572_Topic_Modeling_for_Urdu_Articles_using_Unsupervised_Learning_Approaches",
+    "name": "Topic Modeling for Urdu Articles using Unsupervised Learning",
+    "snippet": "Dec 18, 2024 · This paper introduces an unsupervised learning-based topic modeling approach for Urdu documents, a language with limited resources. By ...",
+    "host_name": "www.researchgate.net",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

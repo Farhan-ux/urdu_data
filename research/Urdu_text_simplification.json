@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://aclanthology.org",
+    "name": "Automatic Sentence Simplification in Low Resource",
+    "snippet": "by Y Anees · 2021 · Cited by 7 — We present a lexical and syntactically simplified Urdu simplification corpus with a detailed analysis of the various simplification operations and human ... Read more",
+    "host_name": "aclanthology.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "Developing a Monolingual Sentence Simplification Corpus",
+    "snippet": "A lexical and syntactically simplified Urdu simplification corpus is presented and a detailed analysis of the various simplification operations are ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "SimplifyUR: Unsupervised Lexical Text Simplification for",
+    "snippet": "This repository contains code, dataset and models for Urdu text simplification as described in paper SimplifyUR: Unsupervised Lexical Text Simplification for ... Read more",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://lrec.elra.info",
+    "name": "SimplifyUR: Unsupervised Lexical Text Simplification for Urdu",
+    "snippet": "SimplifyUR: Unsupervised Lexical Text Simplification for Urdu . Request Correction. Proceedings of the Twelfth International Conference on Language Resources ... Read more",
+    "host_name": "lrec.elra.info",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "The SAMER Arabic Text Simplification Corpus",
+    "snippet": "Apr 29, 2024 — Text simplification aims to reduce the complexity of a text while maintaining the overall grammaticality and core content. This is achieved ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 4,
+    "date": "Apr 29, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://lamarr-institute.org",
+    "name": "Text Simplification and Machine Learning Methods",
+    "snippet": "Nov 15, 2023 — We explain why text simplification is socially relevant and how ML methods can help with implementation.",
+    "host_name": "lamarr-institute.org",
+    "rank": 5,
+    "date": "Nov 15, 2023",
+    "favicon": ""
+  }
+]

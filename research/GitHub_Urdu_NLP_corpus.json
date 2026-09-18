@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://github.com",
+    "name": "UTRNet: High-Resolution Urdu Text Recognition In Printed",
+    "snippet": "This tool was developed by integrating the UTRNet (https://abdur75648. github .io/UTRNe) with a text detection model (YoloV8 finetuned on UrduDoc ) for end-to-end ... Read more",
+    "host_name": "github.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://huggingface.co",
+    "name": "m-aliabbas1/makhzan-urdu-corpus · Datasets at",
+    "snippet": "The Makhzan Urdu Corpus is a high-quality, expert-curated collection of classical and modern Urdu texts . This dataset is valuable for Urdu NLP tasks like: ...",
+    "host_name": "huggingface.co",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "UrduSpeech: A 156-Hour Urdu Speech Corpus with 12-",
+    "snippet": "by Z Zhu · 2026 — UrduSpeech , a 156-hour corpus designed to bridge the digital divide through accurate linguistic representation.",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  }
+]

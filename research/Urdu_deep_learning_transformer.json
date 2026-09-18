@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11101039",
+    "name": "ET-Network: A novel efficient transformer deep learning model for",
+    "snippet": "May 17, 2024 · Transformer-based models are promising for automated recognition in high- and low-resource languages such as Urdu. This paper presents a ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4RRlwcGb0lU",
+    "name": "Chapter 1: Transformer Models | Introduction Part: 1 | Urdu/Hindi",
+    "snippet": "Feb 14, 2023 · ... Transformer models Natural Language Processing (NLP) Neural network architecture Self-attention Positional encoding Machine learning Deep ...",
+    "host_name": "www.youtube.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://medium.com/correll-lab/building-an-english-to-urdu-transformer-from-scratch-69069e8b1ed3",
+    "name": "Building an English-to-Urdu Translation Transformer from Scratch",
+    "snippet": "Oct 5, 2025 · In this project, we implement a Transformer Encoder-Decoder from scratch and train it to perform English-to-Urdu translation.",
+    "host_name": "medium.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ideas.repec.org/a/abq/ijist1/v7y2025i4p3082-3095.html",
+    "name": "Abstractive Urdu Text Summarization Using Multilingual Transformer",
+    "snippet": "This text investigates the possible extent of deep learning models to automate Urdu text summarization.",
+    "host_name": "ideas.repec.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s40747-025-02066-6",
+    "name": "Advancing Urdu named entity recognition: deep learning for aspect",
+    "snippet": "Oct 29, 2025 · Our NER model is tailored for processing Urdu news headlines, integrating advanced neural network architectures and linguistic features ...",
+    "host_name": "link.springer.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org/document/10508575",
+    "name": "Detection of Sarcasm in Urdu Tweets Using Deep Learning and",
+    "snippet": "Apr 25, 2024 · In this research, we have utilized a newly created Urdu sarcasm dataset comprising 12,910 tweets manually re-annotated into sarcastic and non- ...",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://eprints.staffs.ac.uk/8439",
+    "name": "A Deep Learning Approach to Urdu–English Translation - STORE",
+    "snippet": "Sep 13, 2024 · In this work, we leverage the sequence-to-sequence transformer model to translate Urdu (a low resourced language) to English.",
+    "host_name": "eprints.staffs.ac.uk",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/muhammad--taha_we-built-an-urdu-chatbot-from-scratch-no-activity-7386003111783436288-JJ-3",
+    "name": "Built a custom Urdu chatbot with Transformers, no pretrained models",
+    "snippet": "Oct 20, 2025 · Transformers truly learn language structure — making this more than just a chatbot, but a deep dive into modern NLP architecture.",
+    "host_name": "www.linkedin.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://norma.ncirl.ie/8739/1/jackaylohano.pdf",
+    "name": "[PDF] Automated Detection of Fake News in Urdu Language Using Pre",
+    "snippet": "Sep 3, 2025 · This study aims to bridge the gap by leveraging Transfer Learning (TL) on three transformer models for Urdu fake news classification and is an ...",
+    "host_name": "norma.ncirl.ie",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/403831481_Abstractive_Urdu_Text_Summarization_Using_Multilingual_Transformer_Models_A_Deep_Learning_Approach",
+    "name": "Abstractive Urdu Text Summarization Using Multilingual Transformer",
+    "snippet": "Apr 17, 2026 · Abstractive Urdu Text Summarization Using Multilingual Transformer Models: A Deep Learning Approach. December 2025. Authors: Kashif Laeeq at ...",
+    "host_name": "www.researchgate.net",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

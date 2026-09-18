@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://kops.uni-konstanz.de",
+    "name": "The CLE Urdu POS Tagset",
+    "snippet": "by N Calzolari — The tagset has been used to tag 100k words of the CLE Urdu Digest Corpus , giving a tagging accuracy of 96.8%. the EMILLE project (Lüdeling & Kytö, 2008).",
+    "host_name": "kops.uni-konstanz.de",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://catalog.elra.info",
+    "name": "CLE Pakistan Urdu Speech Corpus",
+    "snippet": "Apr 24, 2019 — The CLE Pakistan Urdu Speech Corpus consists of phonetically rich Urdu sentences extracted from CLE Urdu Digest Corpus and additional sentences ...",
+    "host_name": "catalog.elra.info",
+    "rank": 1,
+    "date": "Apr 24, 2019",
+    "favicon": ""
+  },
+  {
+    "url": "https://cle.org.pk",
+    "name": "CLE Store",
+    "snippet": "CLE is making these linguistic resources available without cost for supporting academic, non-commercial research. Urdu Text Corpus 14 Point Size",
+    "host_name": "cle.org.pk",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.lancaster.ac.uk",
+    "name": "EMILLE Corpus Documentation",
+    "snippet": "The parallel corpus consists of 200,000 words of text in English and accompanying translations in Hindi, Bengali, Punjabi, Gujarati and Urdu . The EMILLE Project ...",
+    "host_name": "www.lancaster.ac.uk",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "EMILLE: building a corpus of South Asian languages",
+    "snippet": "by A McEnery · 2000 · Cited by 58 — EMILLE is generating written language corpora of at least 9,000,000 words for Bengali, Gujarati, Hindi, Panjabi, Singhalese, Tamil and Urdu. 9 pages",
+    "host_name": "aclanthology.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) CLE Urdu Digest Corpus",
+    "snippet": "Feb 6, 2014 — Urooj et al. [11] developed a corpus of 100K Urdu words known as the CLE Urdu Digest corpus , which was extracted from Urdu Digest magazine.",
+    "host_name": "www.researchgate.net",
+    "rank": 5,
+    "date": "Feb 6, 2014",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.euppublishing.com",
+    "name": "Design and construction of an openly available Urdu web",
+    "snippet": "Nov 28, 2024 — 2003 emille/ciil corpora ・ cle Urdu Digest Corpus ・ a widely used program for dealing with the complexities of rendering Urdu as typeset,",
+    "host_name": "www.euppublishing.com",
+    "rank": 6,
+    "date": "Nov 28, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "UrduSpeech: A 156-Hour Urdu Speech Corpus with 12-",
+    "snippet": "May 18, 2026 — We introduce UrduSpeech , a 156-hour corpus designed to bridge the digital divide through accurate linguistic representation.",
+    "host_name": "arxiv.org",
+    "rank": 7,
+    "date": "May 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://ufal.mff.cuni.cz",
+    "name": "UMC005: English-Urdu Parallel Corpus - ÚFAL",
+    "snippet": "UMC005 English-Urdu is a parallel corpus of texts in English and Urdu language with sentence alignments. The corpus can be used for experiments with statistical ...",
+    "host_name": "ufal.mff.cuni.cz",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

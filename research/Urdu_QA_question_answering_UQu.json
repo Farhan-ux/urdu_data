@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://aclanthology.org",
+    "name": "Context-Aware Question Answering in Urdu",
+    "snippet": "by S Kazi · 2024 · Cited by 9 — Urdu question-answering systems: UQuAD and UQA . making it suitable for training and evaluating Urdu QA models. It consists of 83,018 answerable and 41,727 ... 10 pages",
+    "host_name": "aclanthology.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "UQA: Corpus for Urdu Question Answering",
+    "snippet": "May 24, 2024 — This paper introduces UQA, a novel dataset for question answering and text comprehension in Urdu , a low-resource language with over 70 million ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "May 24, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "UQuAD1.0: Development of an Urdu Question Answering",
+    "snippet": "This work explores the semi-automated creation of the Urdu Question Answering Dataset (UQuAD1.0 ) by combining machine-translated SQuAD with human-generated ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "ahsanfarooqui/UQuAD---Urdu-Question-Answer-Dataset",
+    "snippet": "We have presented a new dataset for question and answering models. Our dataset contains 27 different Urdu paragraphs which are taken from different ...",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) UQuAD1.0: Development of an Urdu Question",
+    "snippet": "UQuAD1.0 is a large-scale Urdu dataset intended for extractive machine reading comprehension tasks consisting of 49k question Answers pairs in question , ...",
+    "host_name": "www.researchgate.net",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "http://chaoticity.com",
+    "name": "UQA - Corpus for Urdu Question Answering - chaoticity",
+    "snippet": "May 24, 2024 — We describe the process of selecting an appropriate English-to- Urdu translation model and using it to generate a new Urdu QA dataset from the ( ...",
+    "host_name": "chaoticity.com",
+    "rank": 5,
+    "date": "May 24, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://ui.adsabs.harvard.edu",
+    "name": "UQA: Corpus for Urdu Question Answering - ADS",
+    "snippet": "This paper introduces UQA, a novel dataset for question answering and text comprehension in Urdu , a low-resource language with over 70 million native speakers.",
+    "host_name": "ui.adsabs.harvard.edu",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.catalyzex.com",
+    "name": "UQuAD1.0: Development of an Urdu Question Answering",
+    "snippet": "Nov 2, 2021 — This work explores the semi-automated creation of the Urdu Question Answering Dataset (UQuAD1.0 ) by combining machine-translated SQuAD with ... Read more",
+    "host_name": "www.catalyzex.com",
+    "rank": 7,
+    "date": "Nov 2, 2021",
+    "favicon": ""
+  }
+]

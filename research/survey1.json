@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://dl.acm.org",
+    "name": "Urdu language processing: a survey",
+    "snippet": "The core objective of this paper is to present a survey regarding different linguistic resources that exist for Urdu language processing, to highlight ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://thesai.org",
+    "name": "A Review on Urdu Language Parsing",
+    "snippet": "In this review paper we present an overview to recent work in parsing of fixed order (i.e. English) and free word order languages (i.e Urdu )",
+    "host_name": "thesai.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://scholar.hit.edu.cn",
+    "name": "A survey of automatic urdu language processing",
+    "snippet": "by W Anwar · 2006 · Cited by 51 — In this paper we present a survey regarding classification of Urdu language . this survey contains the initial attempts in the development of Urdu language . we ...",
+    "host_name": "scholar.hit.edu.cn",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "(PDF) Urdu language processing: a survey",
+    "snippet": "The paper surveys existing linguistic resources for ULP and highlights recent advancements in the field. Core tasks in ULP include tokenization, named entity ...",
+    "host_name": "www.academia.edu",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "Urdu language processing: a survey",
+    "snippet": "A comprehensive review on Roman- Urdu and Urdu language , which covers previous works done by authors in this area and discusses grammatical structure of Urdu ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Document-Level Sentiment Analysis of Urdu Text Using",
+    "snippet": "Jan 23, 2025 — Urdu Sentiment Analysis (SA ) is a challenging Natural Language Processing (NLP) task as it deals with large documents in a resource-poor  ...",
+    "host_name": "arxiv.org",
+    "rank": 5,
+    "date": "Jan 23, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Evaluating Large Language Models for Urdu",
+    "snippet": "by S Arif · 2024 · Cited by 14 — This paper contributes to the NLP community by providing insights into the effectiveness of general and specific-purpose LLMs for low-resource ... Read more 18 pages",
+    "host_name": "aclanthology.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cambridge.org",
+    "name": "UNLT: Urdu Natural Language Toolkit",
+    "snippet": "by J Shafi · 2023 · Cited by 27 — This study presents the first version of the UNLT ( Urdu Natural Language Toolkit) which contains three key text processing tools required for an ... Read more",
+    "host_name": "www.cambridge.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

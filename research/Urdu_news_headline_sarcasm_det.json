@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://link.springer.com",
+    "name": "Advancing news headline sarcasm detection through hybrid",
+    "snippet": "by MC Roy · 2026 — Ref. [22] introduced Urdu SarcasmNet , a deep learning architecture designed to identify sarcasm in Urdu texts. By leveraging cascaded group ... Read more",
+    "host_name": "link.springer.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "News Headlines Dataset For Sarcasm Detection",
+    "snippet": "TheOnion aims at producing sarcastic versions of current events and we collected all the headlines from News in Brief and News in Photos categories (which are ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Detection of Sarcasm in Urdu Tweets Using Deep Learning",
+    "snippet": "Jul 14, 2026 — In this research, we have utilized a newly created Urdu sarcasm dataset comprising 12,910 tweets manually re-annotated into sarcastic and non- ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 2,
+    "date": "Jul 14, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Sarcasm Identification and Classification in Hindi",
+    "snippet": "In the present article, we have developed baseline models with the help of deep learning (DL) techniques and machine learning (ML) algorithms to detect sarcasm ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "News-Headlines-Dataset-For-Sarcasm-Detection",
+    "snippet": "TheOnion aims at producing sarcastic versions of current events and we collected all the headlines from News in Brief and News in Photos categories (which are ... Read more",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://revistas.usal.es",
+    "name": "Sarcasm Text Detection on News Headlines Using Novel",
+    "snippet": "by N Singh · Cited by 12 — To identify humorous news headlines , this article assessed vectorization algorithms and several machine learning models. The recommended hybrid technique",
+    "host_name": "revistas.usal.es",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://research.uaeu.ac.ae",
+    "name": "Detection of Sarcasm in News Headlines Using NLP and",
+    "snippet": "by A Mansoori · 2025 · Cited by 3 — This paper introduces a deep learning-based sarcasm detection model specifically designed to classify sarcastic and non-sarcastic news headlines.",
+    "host_name": "research.uaeu.ac.ae",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://sentic.net",
+    "name": "Sarcasm Detection in News Headlines using Supervised",
+    "snippet": "by AK Jayaraman · Cited by 20 — In this paper, the authors aim to identify sarcasm in news headlines using supervised learning. We address this task with the Bag-of-words features, context- ... Read more",
+    "host_name": "sentic.net",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://rishabhmisra.github.io",
+    "name": "News Headlines Dataset For Sarcasm Detection",
+    "snippet": "by R Misra · Cited by 39 — To overcome the limitations related to noise in Twitter datasets, we curate News Headlines Dataset from two news websites: TheOnion aims at producing sarcastic ... Read more",
+    "host_name": "rishabhmisra.github.io",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

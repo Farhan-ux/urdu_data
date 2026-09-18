@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://blog.diffbot.com",
+    "name": "Coreference Resolution - Diffblog - Diffbot",
+    "snippet": "Anaphora resolution involves resolving meaning when two real world entities are mentioned , but the first entity mentioned changes the meaning of the second. In ...",
+    "host_name": "blog.diffbot.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://linguistics.stackexchange.com",
+    "name": "What is the difference between coreference resolution and",
+    "snippet": "Feb 23, 2015 — Is there any difference between coreference resolution and anaphora resolution? More generally, what is the difference between coreferences and anaphoras?",
+    "host_name": "linguistics.stackexchange.com",
+    "rank": 1,
+    "date": "Feb 23, 2015",
+    "favicon": ""
+  },
+  {
+    "url": "https://thesai.org",
+    "name": "A Coreference Resolution Approach using Morphological",
+    "snippet": "Coreference resolution is considered one of the challenges in natural language processing. Coreference resolution; Anaphora; Alternative Approach;",
+    "host_name": "thesai.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://neurosys.com",
+    "name": "Intro to coreference resolution in NLP",
+    "snippet": "coreference resolution (CR) is anaphora resolution (AR). The relation of anaphora occurs in a text when one term refers to another determining the second's one ...",
+    "host_name": "neurosys.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ijcesen.com",
+    "name": "A Comprehensive Survey on Anaphora Resolution",
+    "snippet": "Jun 9, 2025 — The goal of the current survey is to examine the anaphora resolution work that has been done for Hindi and related languages. The survey also ...",
+    "host_name": "www.ijcesen.com",
+    "rank": 4,
+    "date": "Jun 9, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Multilingual Coreference Resolution in Low-resource",
+    "snippet": "by R Mishra · 2024 · Cited by 15 — Abstract. Coreference resolution involves the task of identifying text spans within a discourse that pertain to the same real-world entity. 14 pages",
+    "host_name": "aclanthology.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "Coreference resolution: A review of general methodologies",
+    "snippet": "by J Zheng · 2011 · Cited by 137 — Coreference resolution is the task of determining linguistic expressions that refer to the same real-world entity in natural language.",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://upcommons.upc.edu",
+    "name": "Coreference Resolution Survey",
+    "snippet": "by E Sapena · 2008 · Cited by 3 — Most of the anaphora resolutions researchers have focused their efforts in the task of pronominal anaphora resolution (also named pronoun ...",
+    "host_name": "upcommons.upc.edu",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

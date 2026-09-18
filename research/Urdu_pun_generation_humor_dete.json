@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "Humor Generation and Detection in Code-Mixed Hindi-",
+    "snippet": "This paper proposes neural network models for homographic pun generation , and they can generate puns without requiring any pun data for training and are able to ... Read more",
+    "host_name": "www.semanticscholar.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Humor Generation and Detection in Code-Mixed Hindi-",
+    "snippet": "by K Agarwal · 2021 · Cited by 4 — Various work has been done for pun generation using the LSTM approach. The initial model was proposed by Ren and Yang (2017)'s current af- fair jokes generator ... Read more 6 pages",
+    "host_name": "aclanthology.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "A Survey of Pun Generation: Datasets, Evaluations and",
+    "snippet": "Jul 7, 2025 — Pun generation seeks to creatively modify linguistic elements in text to produce humour or evoke double meanings. It also aims to preserve ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "Jul 7, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Generating Humorous Puns with Ambiguous Context",
+    "snippet": "May 4, 2022 — In this paper, we propose a simple yet effective way to generate pun sentences that does not require any training on existing puns . Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "May 4, 2022",
+    "favicon": ""
+  },
+  {
+    "url": "https://europeanjournalofhumour.org",
+    "name": "Towards the automatic detection and identification of English",
+    "snippet": "by T Miller · 2016 · Cited by 35 — This deliberate use of lexical ambiguity — i.e. punning — is a particularly common source of humour , and therefore has important implications ... Read more",
+    "host_name": "europeanjournalofhumour.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "A Computational Model of Linguistic Humor in Puns - PMC - NIH",
+    "snippet": "by JT Kao · 2015 · Cited by 116 — We test these measures on a set of puns and regular sentences and show that they correlate significantly with human judgments of funniness. Moreover, within a ... Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://digitalcommons.harrisburgu.edu",
+    "name": "Humor Detection",
+    "snippet": "by M Jain · 2017 · Cited by 2 — Frontrunners are the Word2Vec, Twitter word indexing power, Mihalcea and Strapparava's dataset of puns and humorous one- liners intended for supervised learning ... Read more 61 pages",
+    "host_name": "digitalcommons.harrisburgu.edu",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Computational Humor Modeling: A Survey on the State of",
+    "snippet": "by J Lemmens · 2026 · Cited by 12 — Secondly, they argue that future humor generation systems should focus on combining insights from both NLP/AI and psychology, in order to integrate cognitive ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://computationalcreativity.net",
+    "name": "Computational Humor: Automated Pun Generation",
+    "snippet": "by B Tyler · Cited by 8 — Our main interest of PAUL BOT is to create puns that users find humorous in some way. In this paper, we focus on the design of the PAUL BOT system and the ... Read more 4 pages",
+    "host_name": "computationalcreativity.net",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

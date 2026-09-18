@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "An Urdu speech corpus for emotion recognition - PMC",
+    "snippet": "by A Asghar · 2022 · Cited by 25 — The Urdu emotional speech dataset contains a total of 2,500 audio clips that was simulated by 20 speakers of both genders. Each speaker uttered 125 emotional ... Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://data.mendeley.com",
+    "name": "UrduSER: A Dataset for Urdu Speech Emotion Recognition",
+    "snippet": "Dec 17, 2024 — The dataset encompasses seven emotional states: Angry, Fear, Boredom, Disgust, Happy, Neutral, and Sad. The speech samples were curated from a ... Read more",
+    "host_name": "data.mendeley.com",
+    "rank": 1,
+    "date": "Dec 17, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://journals.plos.org",
+    "name": "SentiUrdu-1M: A large-scale tweet dataset for Urdu text",
+    "snippet": "by A Ghafoor · 2023 · Cited by 12 — Collected a large-scale Urdu tweet dataset called SentiUrdu-1M for sentiment analysis and emotion recognition tasks. Proposed a weakly ... Read more",
+    "host_name": "journals.plos.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com",
+    "name": "UrduSER: A comprehensive dataset for speech emotion",
+    "snippet": "by MZ Akhtar · 2025 · Cited by 10 — This comprehensive dataset consists of 3500 speech signals from 10 professional actors, with a balanced mix of males and females, and diverse age ranges.",
+    "host_name": "www.sciencedirect.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Emotion Detection from Urdu Speech",
+    "snippet": "This project detects emotions from Urdu speech using deep learning . It focuses on classifying emotions like anger, happiness, sadness, and neutrality, ...",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Context-aware Emotion Detection from Low-resource Urdu",
+    "snippet": "by MF Bashir · 2023 · Cited by 97 — This article presents a publicly available Urdu Nastalique Emotions Dataset (UNED) of sentences and paragraphs annotated with different emotions",
+    "host_name": "dl.acm.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "GoEmotion in Roman Urdu",
+    "snippet": "GoEmotions-RU is a large-scale Roman Urdu emotion classification dataset derived from the Google GoEmotions corpus. The dataset provides high-quality English → ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://archive.ics.uci.edu",
+    "name": "Roman Urdu Sentiment Analysis Dataset (RUSAD)",
+    "snippet": "Aug 14, 2023 — The dataset was gathered to carry out research on the task of sentiment analysis for Roman Urdu . The dataset has two columns. The",
+    "host_name": "archive.ics.uci.edu",
+    "rank": 7,
+    "date": "Aug 14, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com",
+    "name": "Innovations in Urdu Sentiment Analysis Using Machine",
+    "snippet": "by KB Muhammad · 2023 · Cited by 28 — A reasonably sized Urdu dataset was developed and used in this research to perform sentiment analysis . Initially, some pre-processing was performed on the data, ... Read more",
+    "host_name": "www.mdpi.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

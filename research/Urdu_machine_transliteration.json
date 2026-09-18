@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://aclanthology.org",
+    "name": "Challenges in Urdu Machine Translation",
+    "snippet": "by A Basit · 2024 · Cited by 9 — In this work, we highlight the specific issues faced by machine translation systems when translating Urdu language.",
+    "host_name": "aclanthology.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ui.adsabs.harvard.edu",
+    "name": "Urdu-English Machine Transliteration using Neural Networks",
+    "snippet": "Transliteration is a way to consider the context of word/sentence during translation . For low resource language like Urdu, it is very difficult to have/find ...",
+    "host_name": "ui.adsabs.harvard.edu",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Low-Resource Transliteration for Roman-Urdu and",
+    "snippet": "Mar 27, 2025 — Transliteration between Urdu and its Romanized form , machine translation, transliteration, and cross-lingual transfer learning.",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "Mar 27, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Urdu-to-English-Machine-Translation-using-Seq2Seq",
+    "snippet": "This project is aimed at developing a machine translation system for translating Urdu text into English using the Transformer-based architecture.",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "Machine Translation System Using Deep Learning for English",
+    "snippet": "by SAB Andrabi · 2022 · Cited by 74 — The English to Urdu machine translation system has been trained on parallel corpus covering the religious, news, and frequently used sentences or general ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Hindi-to-Urdu machine translation through transliteration",
+    "snippet": "We present a novel approach to integrate transliteration into Hindi-to-Urdu statistical machine translation . We propose two probabilistic models,",
+    "host_name": "dl.acm.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://journals.umt.edu.pk",
+    "name": "Roman Urdu to Urdu Machine Transliteration by Using T5",
+    "snippet": "by U Ahmed · 2025 — This method transforms the syntax of a text in resource speech into characters of the target language, known as machine transliteration . Recent ...",
+    "host_name": "journals.umt.edu.pk",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "(PDF) Hindi Urdu machine transliteration using finite-state",
+    "snippet": "Finite-state Transducers (FST) can be very efficient to implement inter-dialectal transliteration . We illustrate this on the Hindi and Urdu language pair.",
+    "host_name": "www.academia.edu",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://hsajjad.github.io",
+    "name": "Hindi to Urdu Machine Translation Through Transliteration",
+    "snippet": "by N Durrani · Cited by 80 — We present a novel approach to integrate transliteration into Hindi-to-Urdu statisti- cal machine translation . We propose two probabilistic models, based on ...",
+    "host_name": "hsajjad.github.io",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://arxiv.org",
+    "name": "UrduLLaMA 1.0: Dataset Curation, Preprocessing, and",
+    "snippet": "Feb 24, 2025 — 2025. Benchmarking the performance of pre-trained llms across urdu nlp tasks . In Proceedings of the First Workshop on Challenges in ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "Feb 24, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Evaluating Large Language Models for Urdu",
+    "snippet": "by S Arif · 2024 · Cited by 14 — LLMs in Urdu NLP tasks with zero-shot learning. Preprint, arXiv:2404.16816. Benchmarking pre-trained large language models' potential across urdu nlp tasks. 18 pages",
+    "host_name": "aclanthology.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com",
+    "name": "Advancing Urdu named entity recognition: deep learning for",
+    "snippet": "by K Aziz · 2025 · Cited by 13 — This study unveils the Named Entity Recognition (NER) system specifically designed for Urdu news headlines, aimed at bridging crucial ...",
+    "host_name": "link.springer.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://ods.ai/competitions/urdu-hack-soc2021",
+    "name": "Abusive and Threatening Language Detection for Tweets in Urdu",
+    "snippet": "Jul 12, 2021 · We encourage participants to propose methods that can automatically detect threat and abuse in Urdu language to avoid violence and outrageous ...",
+    "host_name": "ods.ai",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org/doi/fullHtml/10.1145/3414524",
+    "name": "Hate Speech Detection in Roman Urdu - ACM Digital Library",
+    "snippet": "hate speech detection in Roman Urdu text, In this study, we have scrapped more than 90,000 tweets and manually parsed them to identify 5,000 Roman Urdu tweets.",
+    "host_name": "dl.acm.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://app.readable.com/text/profanity",
+    "name": "Profanity Word Detector - Text Analysis Tools - Readable",
+    "snippet": "Want to check quickly for swear words and abuse? Our profanity detector will highlight possible swear words for you with a bright pink underline.",
+    "host_name": "app.readable.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org/2020.emnlp-main.197.pdf",
+    "name": "[PDF] Hate-Speech and Offensive Language Detection in Roman Urdu",
+    "snippet": "Nov 16, 2020 · In this work, we presented a dataset in Roman Urdu for the task of hate-speech detection in social media content, annotated with five fine- ...",
+    "host_name": "aclanthology.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/S1568494626011270",
+    "name": "Two-level violence incitation detection in urdu using explainable",
+    "snippet": "In recent years, detecting HS and abusive content on SM has become a growing research area due to the rapid spread of offensive language content online. Various ...",
+    "host_name": "www.sciencedirect.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/pakistan/comments/1hq82d0/what_are_some_of_the_most_creative_insults_u_know",
+    "name": "What are some of the most creative insults u know in Urdu? : r/pakistan",
+    "snippet": "Dec 31, 2024 · Say whatever you want to but never maa behen ki gaaliyan. Can someone help with this swear/insult? What are your favorite swear words/insults/ ...",
+    "host_name": "www.reddit.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11576869",
+    "name": "Roman urdu hate speech detection using hybrid machine learning",
+    "snippet": "Nov 19, 2024 · The first dataset contains three classes including neutral, hostile, and hate speech offensive while the second dataset has coarse-grained ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com/datasets/ibrarahmed001/dataset-of-urdu-abusive-language",
+    "name": "Dataset of Urdu Abusive Language - Kaggle",
+    "snippet": "Abusive Language Detection in Urdu Text: Leveraging Deep Learning and Attention Mechanism. ... Roman Urdu Abusive Comment Dataset (5000+Comments). more_vert.",
+    "host_name": "www.kaggle.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ceur-ws.org/Vol-3159/T4-4.pdf",
+    "name": "[PDF] Abusive and Threatening Language Detection from Urdu Social",
+    "snippet": "This study explores the usability of conventional machine learning and deep learning models to identify abusive and threatening messages on Urdu social media.",
+    "host_name": "ceur-ws.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pypi.org/project/profanity-check",
+    "name": "profanity-check - PyPI",
+    "snippet": "profanity-check uses a linear SVM model trained on 200k human-labeled samples of clean and profane text strings. Its model is simple but surprisingly effective, ...",
+    "host_name": "pypi.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

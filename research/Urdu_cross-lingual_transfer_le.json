@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://ieeexplore.ieee.org",
+    "name": "Investigating Cross-Lingual Transfer Learning Techniques",
+    "snippet": "by SU Rehman · 2021 · Cited by 3 — In this paper, we evaluate the performance of three word-level transfer learning methods: OrthoMap, VecMap-supervised, and VecMap unsupervised for Urdu text . 6 pages",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "RUBERT: A Bilingual Roman Urdu BERT Using Cross",
+    "snippet": "by U Khalid · 2021 · Cited by 32 — RUBERT: A Bilingual Roman Urdu BERT Using Cross Lingual Transfer Learning . Authors:Usama Khalid, Mirza Omer Beg, Muhammad Umair Arshad. Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Investigating Cross-Lingual Transfer Learning Techniques",
+    "snippet": "Investigating Cross-Lingual Transfer Learning Techniques for Urdu Text Using Word Embeddings ... Cross-lingual Transfer Learning for Multilingual Task ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Cross-lingual Transfer Learning for Multilingual Task",
+    "snippet": "by S Schuster · 2019 · Cited by 392 — We use this data set to evaluate three different cross-lingual transfer methods: (1) translating the training data , (2) using cross-lingual pre-trained ... Read more",
+    "host_name": "aclanthology.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.emergentmind.com",
+    "name": "Cross-Lingual Transfer Learning",
+    "snippet": "Jan 16, 2026 — Cross-Lingual Transfer Learning is a set of approaches that leverage annotated data and multilingual embeddings from resource-rich languages ... Read more",
+    "host_name": "www.emergentmind.com",
+    "rank": 4,
+    "date": "Jan 16, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com",
+    "name": "Multilingual Named Entity Recognition in Arabic and Urdu",
+    "snippet": "by F Ullah · 2025 · Cited by 1 — JML enables simultaneous learning from both Arabic and Urdu data , while JTL enriches the training process by translating Arabic to Urdu and merging it with ...",
+    "host_name": "www.mdpi.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com",
+    "name": "Enhancing Urdu hate speech detection through differential",
+    "snippet": "by I Hussain · 2025 · Cited by 2 — This work also explores the applicability and suitability of transfer learning , particularly through DAmBERT, for detecting Urdu hate speech, ... Read more",
+    "host_name": "www.nature.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://dl.acm.org",
+    "name": "Enriching Urdu NER with BERT Embedding, Data",
+    "snippet": "by A Ahmed · 2024 · Cited by 24 — The study introduces three primary contributions to enhance Urdu NER performance. with particular emphasis on fine - tuning BERT BASE … ...",
+    "host_name": "dl.acm.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://docs.v1.argilla.io",
+    "name": "Fine-tunning a NER model with BERT for Beginners",
+    "snippet": "In this tutorial, you will learn to fine-tune a pre-trained BERT model for Named Entity Recognition. Download the BERT model and start to fine-tune it. how to  ...",
+    "host_name": "docs.v1.argilla.io",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Fine-tuning Pre-trained Named Entity Recognition Models",
+    "snippet": "May 10, 2024 — Researchers have developed and fine tuned some m ultilingual NER models , that help perform NER across multiple languages",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "May 10, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://discuss.huggingface.co",
+    "name": "NER fine-tuning - Beginners",
+    "snippet": "Dec 20, 2021 — Hi, I want to fine tune a NER model on my own dataset and entities . Is that possible? If yes how ? Thanks in advance.",
+    "host_name": "discuss.huggingface.co",
+    "rank": 3,
+    "date": "Dec 20, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://etasr.com",
+    "name": "Fine-Tuning BERT for Automated News Classification",
+    "snippet": "by MI Salih · 2025 · Cited by 16 — The results show that fine- tuning allows BERT to contextualize domain-specific intricacies , resulting in improved classification performance. We also address ... Read more",
+    "host_name": "etasr.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

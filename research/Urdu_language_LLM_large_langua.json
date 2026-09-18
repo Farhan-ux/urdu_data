@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://eng.auburn.edu",
+    "name": "Graduate student in computer science and software",
+    "snippet": "Jan 26, 2026 — Qalb, the world's largest Large Language Model (LLM ) exclusively for the Urdu language, which generates fluent, natural and instruction- ...",
+    "host_name": "eng.auburn.edu",
+    "rank": 0,
+    "date": "Jan 26, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Evaluating Large Language Models for Urdu",
+    "snippet": "by S Arif · 2024 · Cited by 14 — In this paper, we compare general- purpose models , GPT -4-Turbo and Llama-3-8b, Urdu has 70 million native speakers, yet it remains ... 18 pages",
+    "host_name": "aclanthology.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Qalb: Largest State-of-the-Art Urdu Large Language Model",
+    "snippet": "Jan 13, 2026 — This open-source, asynchronous web scraping framework is specifically optimized for Large Language Model ( LLM ) workflows. Unlike traditional ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "Jan 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "traversaal-ai/alif-urdu-llm: Multilingual",
+    "snippet": "Alif-1.0-8B-Instruct is a multilingual Urdu –English large language model built on Meta-Llama-3.1-8B. It was continued-pretrained on 200K Urdu Wikipedia articles ... Read more",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.siliconflow.com",
+    "name": "Ultimate Guide - Best Open Source LLM for Urdu in 2026",
+    "snippet": "Open source LLMs for Urdu are large language models specifically designed or optimized to understand, generate, and process Urdu text with high accuracy. Read more",
+    "host_name": "www.siliconflow.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://blog.traversaal.ai",
+    "name": "Our First Urdu LLM outperforming other Open Source LLMs",
+    "snippet": "Feb 18, 2026 — Alif 1.0, our first-ever Urdu-English LLM , for 250 million Urdu speakers worldwide. ensuring robust Urdu-language LLM development.",
+    "host_name": "blog.traversaal.ai",
+    "rank": 5,
+    "date": "Feb 18, 2026",
+    "favicon": ""
+  }
+]

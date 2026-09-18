@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10280395",
+    "name": "Fake news detection in Urdu language using machine learning - PMC",
+    "snippet": "May 23, 2023 · The published fake news data from the English language has been converted into the Urdu language with manual verification. If any news does not ... Missing: misinformation | Show results with: misinformation",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/abs/2410.19517",
+    "name": "Detection of Human and Machine-Authored Fake News in Urdu - arXiv",
+    "snippet": "Oct 25, 2024 · we updated detection schema to include machine-generated news with focus on the Urdu language. We further propose a hierarchical detection",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://techxplore.com/news/2026-03-ai-urdu-news-stories-misinformation.html",
+    "name": "AI model trained on 14,000 Urdu news stories spots misinformation",
+    "snippet": "Mar 18, 2026 · A deep learning model trained on more than 14,000 Pakistani news articles can spot misinformation with 96% accuracy, according to a new ...",
+    "host_name": "techxplore.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com/articles/s41598-026-36771-0",
+    "name": "Verifying Urdu news authenticity using deep learning with  - Nature",
+    "snippet": "Feb 5, 2026 · This work aims to create a complete fake news detection mechanism for Pakistani news by using many fact-checked APIs. A total of 14,178 real ...",
+    "host_name": "www.nature.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org/2025.acl-long.170",
+    "name": "Detection of Human and Machine-Authored Fake News in Urdu",
+    "snippet": "we updated the detection schema to include machine-generated news focusing on Urdu. We further propose a conjoint detection strategy to improve the accuracy ...",
+    "host_name": "aclanthology.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ceur-ws.org/Vol-3159/T7-11.pdf",
+    "name": "[PDF] Fake News Detection in Urdu Language using BERT - CEUR-WS.org",
+    "snippet": "The current study focuses on detecting Fake News in the Urdu language using Machine and Deep learning techniques. The 'UrduFake' data is used in this research, Missing: misinformation | Show results with: misinformation",
+    "host_name": "ceur-ws.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://norma.ncirl.ie/8739",
+    "name": "Automated Detection of Fake News in Urdu Language Using Pre",
+    "snippet": "Sep 3, 2025 · This study explores fake news classification in Urdu using three state-of-the-art (SOTA) pre-trained multilingual transformer modelsi.e. mBERT, ...",
+    "host_name": "norma.ncirl.ie",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com/2078-2489/16/7/595",
+    "name": "Detecting Fake News in Urdu Language Using Machine Learning",
+    "snippet": "Fake news is false or misleading information that looks like real news and spreads. Urdu is the main language, finding fake news in Urdu is difficult because ...",
+    "host_name": "www.mdpi.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.hw.ac.uk/news/2026/new-ai-could-stop-fake-news-in-urdu",
+    "name": "New AI could stop fake news in Urdu | Heriot-Watt University",
+    "snippet": "Mar 18, 2026 · A deep learning model trained on more than 14,000 Pakistani news articles can spot misinformation with 96% accuracy, according to a new ...",
+    "host_name": "www.hw.ac.uk",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.linkedin.com/posts/attiya-yaqoob_machinelearning-nlp-fakenewsdetection-activity-7431276492870979584-2ctv",
+    "name": "Urdu Fake News Detector with Real-Time Analysis - LinkedIn",
+    "snippet": "Feb 22, 2026 · Real-Time Fake News Detection in Urdu** I just built a demo that can **automatically detect fake and real news** in Urdu articles.",
+    "host_name": "www.linkedin.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.naturalspublishing.com",
+    "name": "Information Sciences Letters",
+    "snippet": "This research introduces a specialized NMT model for translating Urdu text to English . It uses a transformer-based method with subword tokenization to improve ... Read more",
+    "host_name": "www.naturalspublishing.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Urdu-to-English Neural Machine Translation using",
+    "snippet": "This research introduces a specialized NMT model for translating Urdu text to English . It uses a transformer-based method with subword tokenization to improve ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "GitHub - TahirZia-1/Transformer-Based-English-Urdu",
+    "snippet": "Develop a custom Transformer model for English-to-Urdu translation . Fine-tune a pretrained MarianMT model for the same task. Evaluate and compare both models ... Read more",
+    "host_name": "github.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com",
+    "name": "Linguistic knowledge injected into large language model for",
+    "snippet": "by MN Ul Hassan · 2026 — ... English, a linguistically informed large-model-based Urdu-English neural machine translation method is proposed. Given that current general ... Read more",
+    "host_name": "link.springer.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Challenges in Urdu Machine Translation",
+    "snippet": "by A Basit · 2024 · Cited by 9 — Abstract. Recent advancements in Neural Machine Translation ( NMT ) systems have significantly improved model performance on various translation benchmarks. Read more",
+    "host_name": "aclanthology.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ir.iba.edu.pk",
+    "name": "\"Assessing Neural Machine Translation for English-Urdu",
+    "snippet": "by SH Nafees · 2023 — This report presents a study on the performance of various Neural Machine Translation ( NMT ) models for the English - Urdu pair, a relatively unexplored domain ...",
+    "host_name": "ir.iba.edu.pk",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com",
+    "name": "LKMT: Linguistics Knowledge-Driven Multi-Task Neural",
+    "snippet": "by MNU Hassan · 2024 · Cited by 7 — Notably, developing an English - Urdu NMT system achieved a high score [34]. 2.2. Knowledge-Enhanced Machine Translation . Incorporating various ... Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com",
+    "name": "Transformer-Based Re-Ranking Model for Enhancing",
+    "snippet": "by A Javed · 2025 · Cited by 28 — As detailed in Table 9, the comparative analysis highlights several studies on Chinese– Urdu neural machine translation ( NMT ). It focuses on ... Read more",
+    "host_name": "www.mdpi.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

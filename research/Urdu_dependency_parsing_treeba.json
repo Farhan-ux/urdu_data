@@ -1,0 +1,92 @@
+[
+  {
+    "url": "http://faculty.washington.edu/fxia/LAWVI/workshop_presentation_slides/paper_session4/riyaz.pdf",
+    "name": "[PDF] A Dependency Treebank of Urdu and its Evaluation",
+    "snippet": "Treebanks play an increasingly important role in NLP tasks such as parsing. They can be an indispensable resource for linguistic investigations.",
+    "host_name": "faculty.washington.edu",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org/pdf/2406.09549",
+    "name": "[PDF] Urdu Dependency Parsing and Treebank Development - arXiv",
+    "snippet": "Oct 2, 2024 · Parsing is the process of analyzing a sentence's syntactic structure. Urdu is a low-resource, free word-order language and exhibits complex ...",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://universaldependencies.org",
+    "name": "Universal Dependencies",
+    "snippet": "Universal Dependencies (UD) is a framework for consistent annotation of grammar. The Urdu Universal Dependency Treebank. Urdu Dependency Treebank (UDTB) effort ...",
+    "host_name": "universaldependencies.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scribd.com/document/344043084/Urdu-Dependency-Parser-a-Data-Driven-Approach",
+    "name": "Urdu Dependency Parser Overview | PDF | Parsing - Scribd",
+    "snippet": "This paper presents the first data-driven dependency parser for Urdu. The parser was trained using the MaltParser system on the newly developed Urdu Dependency ...",
+    "host_name": "www.scribd.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ijcaonline.org/archives/volume167/number12/27823-2017914492",
+    "name": "Dependency Parsing using the URDU.KON-TB Treebank",
+    "snippet": "In this paper, we present evaluation of URDU.KON-TB in the dependency parsing domain. The URDU.KON-TB treebank is developed on the bases of the phrase ...",
+    "host_name": "ijcaonline.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://kops.uni-konstanz.de/entities/publication/e0084197-6362-433b-ab56-ce5996f39122",
+    "name": "Dependency Parsing for Urdu : Resources, Conversions and Learning",
+    "snippet": "This paper adds to the available resources for the under-resourced language Urdu by converting different types of existing treebanks for Urdu into a common ...",
+    "host_name": "kops.uni-konstanz.de",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net/publication/381471415_Exploring_Syntactic_Patterns_in_Urdu_A_Deep_Dive_into_Dependency_Analysis",
+    "name": "Exploring Syntactic Patterns in Urdu: A Deep Dive into Dependency",
+    "snippet": "The URDU.KON-TB treebank is developed on the bases of the phrase structure and hyper dependency structure which are only functional constituent's label.",
+    "host_name": "www.researchgate.net",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org/paper/Building-Computational-Resources%3A-The-URDU.KON-TB-Abbas/f5ebcb1472672364eac79eadd6f41db16509b63f",
+    "name": "The URDU.KON-TB Treebank and the Urdu Parser - Semantic Scholar",
+    "snippet": "This work presents the development of the URDU.KON-TB treebank, its annotation evaluation & guidelines and the construction of the Urdu parser for a South ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://d-nb.info/1278248498/34",
+    "name": "[PDF] Dependency Parsing for Urdu: Resources, Conversions and Learning",
+    "snippet": "May 16, 2020 · The Stanford parser (Klein and Manning,. 2003) together with functional labels produces a functional accuracy of 68.3% on a PS Urdu treebank. On ...",
+    "host_name": "d-nb.info",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org/2020.lrec-1.640",
+    "name": "Dependency Parsing for Urdu: Resources, Conversions and Learning",
+    "snippet": "This paper adds to the available resources for the under-resourced language Urdu by converting different types of existing treebanks for Urdu into a common ...",
+    "host_name": "aclanthology.org",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

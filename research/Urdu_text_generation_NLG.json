@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.kaggle.com",
+    "name": "Urdu LM for Text Generation",
+    "snippet": "In this notebook, we will process of training a language model for Urdu text generation using the Hugging Face Transformers library.",
+    "host_name": "www.kaggle.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Qalb: Largest State-of-the-Art Urdu Large Language Model",
+    "snippet": "Jan 13, 2026 — We introduce Qalb, an Urdu language model developed . This corpus comprises 1.84 billion tokens of diverse Urdu text—spanning … generating text ...",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "Jan 13, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://data.mendeley.com",
+    "name": "Urdu News Dataset 1M",
+    "snippet": "Jan 13, 2021 — This dataset offers above 1 Million Urdu news stories text corpus for four distinct categories: Business & Economics, Science & Technology, ... Read more",
+    "host_name": "data.mendeley.com",
+    "rank": 2,
+    "date": "Jan 13, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "HLU: Human Vs LLM Generated Text Detection Dataset for",
+    "snippet": "by I Ali · 2025 · Cited by 8 — The rise of large language models (LLMs) gen erating humanlike text has raised concerns about misuse, especially in lowresource lan. Read more 16 pages",
+    "host_name": "aclanthology.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "traversaal-ai/urdu-llm-resources: Curated list of datasets,",
+    "snippet": "A comprehensive registry of Urdu datasets, models, and tools designed for the urdu NLP and Large Language Models (LLM) development. Read more",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org",
+    "name": "Generation of Urdu Ghazals using Deep Learning",
+    "snippet": "by S Fahim · 2023 · Cited by 1 — This research explores the automatic generation of Urdu poetry , specifically Urdu ghazals which hold a significant cultural value using natural language ... Read more",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com",
+    "name": "Semantic processing for Urdu: corpus creation, parsing, and",
+    "snippet": "by MS Amin · 2025 · Cited by 9 — These annotated corpora are useful for developing robust semantic parsers and natural language generation ( NLG a low-resource language.",
+    "host_name": "link.springer.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cambridge.org",
+    "name": "UNLT: Urdu Natural Language Toolkit",
+    "snippet": "by J Shafi · 2023 · Cited by 27 — This study presents the first version of the UNLT (Urdu Natural Language Toolkit ) which contains three key text processing tools required for an ... Read more",
+    "host_name": "www.cambridge.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

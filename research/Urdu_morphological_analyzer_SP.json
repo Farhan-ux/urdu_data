@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://etasr.com",
+    "name": "A Deterministic Finite-State Morphological Analyzer for",
+    "snippet": "by A Alblwi · 2023 · Cited by 11 — The morphological analyzer is a computational process that combines lemmas with other linguistic features to produce new lexical word forms. Read more",
+    "host_name": "etasr.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "A Deterministic Finite-State Morphological Analyzer for",
+    "snippet": "This study adds all the necessary features and values to the lexical concatenating nouns according to their patterns and studies number, gender, person, and ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ui.adsabs.harvard.edu",
+    "name": "Analysis, Design and Implementation of Urdu",
+    "snippet": "by SM Rizvi · 2005 · Cited by 21 — In this paper, the morphology of verbs in Urdu is analyzed by listing verbs of different transitivity and forms in tables and finding their common suffixes.",
+    "host_name": "ui.adsabs.harvard.edu",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) Developing a Finite-State Morphological Analyzer",
+    "snippet": "Jun 30, 2026 — We introduce and discuss a number of issues that arise in the process of building a finite-state morphological analyzer for Urdu , ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 3,
+    "date": "Jun 30, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://papers.ssrn.com",
+    "name": "A Deterministic Finite-State Morphological Analyzer for",
+    "snippet": "by A Alblwi · 2023 · Cited by 11 — The morphological analyzer is a computational process that combines lemmas with other linguistic features to produce new lexical word forms. Read more",
+    "host_name": "papers.ssrn.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://publishup.uni-potsdam.de",
+    "name": "Developing a finite-state morphological analyzer for Urdu and",
+    "snippet": "by T Bögel · 2008 · Cited by 57 — We introduce and discuss a number of issues that arise in the process of building a finite-state morphological analyzer for Urdu ,",
+    "host_name": "publishup.uni-potsdam.de",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ling.sprachwiss.uni-konstanz.de",
+    "name": "Developing a Finite-State Morphological Analyzer for Urdu",
+    "snippet": "by T Bögel · Cited by 57 — In this paper we have introduced and addressed a number of issues that arise in the pro- cess of building a finite-state morphological analyzer for Urdu . Read more",
+    "host_name": "ling.sprachwiss.uni-konstanz.de",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://cle.org.pk",
+    "name": "Urdu Finite-State Morphological Analyzer",
+    "snippet": "Jun 9, 2026 — A morphological analyzer contains necessary details for each word and the rules these words follow for derivation and inflection.",
+    "host_name": "cle.org.pk",
+    "rank": 7,
+    "date": "Jun 9, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "HinMA: Distributed Morphology based Hindi",
+    "snippet": "by A Bahuguna · 2014 · Cited by 8 — We present here a novel computational tool HinMA, or the Hindi. Morphological Analyzer , based on the framework of Distributed Morphology. (DM). We discuss the ... Read more 7 pages",
+    "host_name": "aclanthology.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

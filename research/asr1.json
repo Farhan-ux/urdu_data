@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://arxiv.org",
+    "name": "UrduSpeech: A 156-Hour Urdu Speech Corpus with 12-",
+    "snippet": "May 18, 2026 — We introduce UrduSpeech , a 156-hour corpus designed to bridge the digital divide through accurate linguistic representation.",
+    "host_name": "arxiv.org",
+    "rank": 0,
+    "date": "May 18, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://huggingface.co",
+    "name": "humairawan/UrduSpeech · Datasets at Hugging Face",
+    "snippet": "Summary UrduSpeech is a high-quality multi-style speech corpus for Urdu and Kashmiri languages, designed for text-to-speech (TTS), automatic speech recognition ...",
+    "host_name": "huggingface.co",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "DWT features performance analysis for automatic speech",
+    "snippet": "by H Ali · 2014 · Cited by 34 — This paper presents the work on the ASR of Urdu isolated words and investigate the performance of DWT features by comparing it with the results ...",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Urdu Speech Recognition",
+    "snippet": "Urdu Speech Recognition using Kaldi ASR , by training Triphone Acoustic GMMs using the PRUS dataset. Processing taught by Dr. Agha Ali Raza",
+    "host_name": "github.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dataoceanai.com",
+    "name": "Urdu Speech Recognition Corpus (Mobile)",
+    "snippet": "Urdu Speech Recognition Corpus (Mobile ) ; Language: Urdu ; Country. Pakistan ; Sample rate & bit depth. 16 kHz,16bit ; Recording environment. quiet (office/home). Read more",
+    "host_name": "dataoceanai.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "Urdu Speech Corpus",
+    "snippet": "It is intended for training and evaluating automatic speech recognition ( ASR ), speech-to-text, and related audio models for Urdu — a low-resource language ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aikosh.indiaai.gov.in",
+    "name": "Commonvoice Urdu ASR Benchmark Dataset for Speech",
+    "snippet": "Feb 24, 2025 — This is an Urdu ASR benchmark dataset developed to evaluate and improve Automatic Speech Recognition (ASR) systems for the Urdu language.",
+    "host_name": "aikosh.indiaai.gov.in",
+    "rank": 6,
+    "date": "Feb 24, 2025",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Human-Evaluated Urdu-English Speech Corpus",
+    "snippet": "by H Mehmood · 2025 — It typically inte- grates automatic speech recognition ( ASR ), ma- chine translation (MT), and text-to-speech (TTS) capabilities in a ... Read more 7 pages",
+    "host_name": "aclanthology.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "Automatic Urdu Speech Recognition using Hidden Markov",
+    "snippet": "In this paper, we present an approach to develop an Automatic Speech Recognition ( ASR ) ... A Medium Vocabulary Urdu Isolated Words Balanced Corpus for Automatic ... Read more",
+    "host_name": "www.semanticscholar.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

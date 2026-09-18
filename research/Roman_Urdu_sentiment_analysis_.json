@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.aiddata.org",
+    "name": "AidData's Global Chinese Development Finance Dataset",
+    "snippet": "Sep 29, 2021 — This uniquely granular dataset captures 13,427 development projects worth $843 billion financed by more than 300 Chinese government institutions ... Read more",
+    "host_name": "www.aiddata.org",
+    "rank": 0,
+    "date": "Sep 29, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com",
+    "name": "r/datasets",
+    "snippet": "The dataset currently contains approximately 25,000 synthetic medical records covering around 40 PII/PHI entity types. There is no downloadable dataset yet.",
+    "host_name": "www.reddit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.tensorflow.org",
+    "name": "tf.data.Dataset | TensorFlow v2.16.1",
+    "snippet": "Apr 26, 2024 — The tf.data. Dataset API supports writing descriptive and efficient input pipelines. Create a source dataset from your input data.",
+    "host_name": "www.tensorflow.org",
+    "rank": 2,
+    "date": "Apr 26, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "Find Open Datasets and Machine Learning Projects",
+    "snippet": "Browse and download hundreds of thousands of open datasets for AI research, model training, and analysis. Explore, analyze, and share quality data. Sivanessan ...",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://schema.org",
+    "name": "Dataset - Schema.org Type",
+    "snippet": "Dataset - A body of structured information describing some topic(s) of interest. Announcement Statistical information about the spread of a disease,",
+    "host_name": "schema.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]

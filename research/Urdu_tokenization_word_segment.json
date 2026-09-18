@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://journals.mmupress.com",
+    "name": "Knowledge-based Word Tokenization System for Urdu",
+    "snippet": "Jun 13, 2024 — This study introduces a novel knowledge-based word tokenization system tailored for Urdu . Central to this system is a maximum matching model ... Read more",
+    "host_name": "journals.mmupress.com",
+    "rank": 0,
+    "date": "Jun 13, 2024",
+    "favicon": ""
+  },
+  {
+    "url": "https://elmi.hbku.edu.qa",
+    "name": "Urdu word segmentation",
+    "snippet": "N2 - Word Segmentation is the foremost obligatory task in almost all the NLP applications where the initial phase requires tokenization of input into words. Read more",
+    "host_name": "elmi.hbku.edu.qa",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Urdu word segmentation | Human Language Technologies",
+    "snippet": "This paper discusses how orthographic and linguistic features in Urdu trigger these two problems . It also discusses the work that has been done to tokenize ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scilit.com",
+    "name": "UNLT: Urdu Natural Language Toolkit",
+    "snippet": "The UNLT word tokenizer employs a morpheme matching algorithm coupled with a state-of-the-art stochasticn-gram language model with back-off and smoothing ... Read more",
+    "host_name": "www.scilit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://thesai.org",
+    "name": "Urdu Word Segmentation using Machine Learning",
+    "snippet": "The objective of this research work is to present a machine learning based approach for Urdu word segmentation . We adopted the use of conditional random fields ... Read more",
+    "host_name": "thesai.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Urdu Word Segmentation using Conditional Random",
+    "snippet": "by HB Zia · 2018 · Cited by 32 — This paper presents a word segmentation system for Urdu which uses a Conditional Random Field sequence modeler with orthographic, linguistic and morphological ... Read more",
+    "host_name": "aclanthology.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "Machine learning based framework for fine-grained word",
+    "snippet": "by S Nazir · 2024 · Cited by 19 — This research presents improved text normalization and tokenization techniques for the Urdu language. For Urdu text normalization, multiple ... Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "(PDF) Urdu Word Segmentation using Machine Learning",
+    "snippet": "The objective of this research work is to present a machine learning based approach for Urdu word segmentation . We adopted the use of conditional random fields ... Read more",
+    "host_name": "www.academia.edu",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Urdu Word Segmentation Tag Set",
+    "snippet": "This study introduces a novel knowledge-based word tokenization system tailored for Urdu . Central to this system is a maximum matching model with forward and ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://dl.acm.org",
+    "name": "Authorship Attribution for a Resource Poor Language—Urdu",
+    "snippet": "by Z Nazir · 2021 · Cited by 14 — Also, the identified features are categorized into five groups to form a collection of Stylometry Features for Authorship Attribution in Urdu (SFAAU-20). Read more",
+    "host_name": "dl.acm.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "N-Gram Based Authorship Attribution in Urdu Poetry",
+    "snippet": "A software system is developed to apply one existing and one modified authorship attribution technique to Urdu poetry and also presents the issues and ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ir.iba.edu.pk",
+    "name": "\"Authorship attribution on Urdu corpus using lexical",
+    "snippet": "by S Yousuf · 2019 — Authorship attribution has deep roots in linguistic Stylometry . Stylometry is the linguistic information to label documents whose authors are unknown by using ... Read more",
+    "host_name": "ir.iba.edu.pk",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org",
+    "name": "An Empirical Study on Forensic Analysis of Urdu Text",
+    "snippet": "by W Anwar · 2018 · Cited by 49 — An Empirical Study on Forensic Analysis of Urdu Text Using LDA-Based Authorship Attribution . Abstract: In the recent years, text-based ... Read more",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://methods.clsinfra.io",
+    "name": "8 Analysis in Authorship Attribution",
+    "snippet": "May 15, 2023 — Authorship attribution studies frequently use various unsupervised machine learning methods for exploratory data analysis. Most common are ... Read more",
+    "host_name": "methods.clsinfra.io",
+    "rank": 4,
+    "date": "May 15, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://cmu-lib.github.io",
+    "name": "Stylometry and Authorship Analysis",
+    "snippet": "This video discusses the question of authorship attribution and shows how stylometry and machine learning have been able to prove the true ...",
+    "host_name": "cmu-lib.github.io",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "(PDF) Authorship Attribution of Arabic Tweets",
+    "snippet": "Combining Bag-Of-Words (BOW) and Stylometric Features (SF) yields the highest accuracy in authorship attribution . Achieved a maximum accuracy of 68.67 ... Read more",
+    "host_name": "www.academia.edu",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) Authorship Attribution for a Resource Poor Language",
+    "snippet": "Secondly, we have analyzed hundreds of stylometry features used in the literature to identify 194 features that are applicable to Urdu language and subsequently ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://fastdatascience.com",
+    "name": "Authorship analysis demo (forensic stylometry and",
+    "snippet": "Fast Data Science has developed a unique forensic stylometry model and Python library which allows you to identify the author of a text by their unique ... Read more",
+    "host_name": "fastdatascience.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

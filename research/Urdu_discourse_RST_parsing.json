@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://aclanthology.org",
+    "name": "RST Discourse Parsing with Second-Stage EDU-Level Pre",
+    "snippet": "by N Yu · 2022 · Cited by 37 — RST discourse parsing aims to automatically con- struct a hierarchical constituent tree2. NEP and DMP are effective for RST discourse parsing. 12 pages",
+    "host_name": "aclanthology.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "[2105.10861] RST Parsing from Scratch",
+    "snippet": "by TT Nguyen · 2021 · Cited by 44 — In this formulation, we consider discourse parsing as a sequence of splitting decisions at token boundaries and use a seq2seq network to model ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.alphaxiv.org",
+    "name": "RST-style Discourse Parsing Guided by Document-level",
+    "snippet": "Sep 8, 2023 — Discourse Parsing (RST-DP ) explores how clauses, sentences, and large text spans compose a whole discourse and presents the rhetorical ...",
+    "host_name": "www.alphaxiv.org",
+    "rank": 2,
+    "date": "Sep 8, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://hal.science",
+    "name": "Cross-lingual RST Discourse Parsing",
+    "snippet": "by C Braud · 2017 · Cited by 120 — Discourse parsing is an integral part of understanding information flow and argumentative structure in documents. Brazilian Portuguese.",
+    "host_name": "hal.science",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "tchewik/isanlp_rst: RST Discourse Parsers",
+    "snippet": "This library provides several versions of the Rhetorical Structure (RST) parser for multiple languages. Below, you will find instructions on how to set up and ... Read more",
+    "host_name": "github.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "How much progress have we made on RST discourse",
+    "snippet": "This article analyze RST discourse parsing as dependency parsing by adapting to RST a recent proposal in syntactic parsing that relies on head-ordered ... Read more",
+    "host_name": "www.semanticscholar.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Can we obtain significant success in RST discourse",
+    "snippet": "RST Discourse Parsing as Text-to-Text Generation . Article. Jan 2023. Xinyu Hu · Xiaojun Wan. Previous studies have made great advances in RST discourse parsing ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://repository.digital.georgetown.edu",
+    "name": "Cross-Paragraph Discourse Structure in Rhetorical Structure",
+    "snippet": "by S Peng · 2023 · Cited by 3 — this dissertation examines how macro-level discourse relations are presented in RST and whether state-of-the-art RST parsers capture them ...",
+    "host_name": "repository.digital.georgetown.edu",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]

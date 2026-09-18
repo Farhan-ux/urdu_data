@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.researchgate.net",
+    "name": "A Computational Approach to Understanding Agglutinative",
+    "snippet": "Mar 22, 2026 — Using the Emille Urdu Corpus , this research systematically analyzes the frequency and distribution of agglutinative structures in Urdu. A Python ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 0,
+    "date": "Mar 22, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://journals.au.edu.pk",
+    "name": "A Computational Approach to Understanding Agglutinative",
+    "snippet": "This study investigates the computational challenges and opportunities presented by the agglutinative structures in Urdu , a language characterized by its ... Read more",
+    "host_name": "journals.au.edu.pk",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ppaspk.org",
+    "name": "Improving Roman Urdu Topic Classification through Custom",
+    "snippet": "by M Aqeel · 2025 — This paper proposes a strong topic - classification framework for Roman Urdu , integrating Stochastic Gradient Descent (SGD)-optimized machine ... Read more",
+    "host_name": "ppaspk.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://indjst.org",
+    "name": "Multi-text classification of Urdu/Roman using machine",
+    "snippet": "The main purpose of this work is to classify multi-text for Urdu and Roman language using Natural Language processing and Machine Learning classification models ... Read more",
+    "host_name": "indjst.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Enhancing Urdu Sentiment Classification through",
+    "snippet": "by HF Khan · 2026 · Cited by 1 — First, we explore class imbalance mitigation by using instruction-tuned large language models (LLMs) to generate synthetic negative sentiment samples in Urdu . Read more",
+    "host_name": "aclanthology.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://en.wikipedia.org",
+    "name": "Agglutinative language",
+    "snippet": "An agglutinative language is a type of language that primarily forms words by stringing together morphemes (word parts)—each typically representing a single ... Read more",
+    "host_name": "en.wikipedia.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  }
+]

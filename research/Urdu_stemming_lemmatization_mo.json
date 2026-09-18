@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://etasr.com",
+    "name": "A Deterministic Finite-State Morphological Analyzer for",
+    "snippet": "by A Alblwi · 2023 · Cited by 11 — The morphological analyzer is a computational process that combines lemmas with other linguistic features to produce new lexical word forms. Read more",
+    "host_name": "etasr.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.scilit.com",
+    "name": "Methods for Creating a Morphological Analyzer",
+    "snippet": "A Syntactically Expressive Morphological Analyzer for Turkish. 2019 ; An improved Urdu stemming algorithm for text mining based on multi-step hybrid approach. Read more",
+    "host_name": "www.scilit.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Urdu Summary Corpus - ÿïf àAK. P ú×ñ ¯ ú",
+    "snippet": "by M Humayoun · 2016 · Cited by 32 — Whereas, a morphological analyzer gives more details such as word class, number, gender, etc, in addition to lemma. We used Urdu Morphological Ana- lyzer ( ... Read more 5 pages",
+    "host_name": "aclanthology.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "Analysis, Design and Implementation of Urdu",
+    "snippet": "The morphology of verbs in Urdu is analyzed by listing verbs of different transitivity and forms in tables and finding their common suffixes,",
+    "host_name": "www.semanticscholar.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "(PDF) Methods for Creating a Morphological Analyzer",
+    "snippet": "Apr 13, 2023 — lemmatization ; This article considered the implementation of stemming , lemmatization . An improved Urdu stemming algorithm for text mining based ...",
+    "host_name": "www.researchgate.net",
+    "rank": 4,
+    "date": "Apr 13, 2023",
+    "favicon": ""
+  },
+  {
+    "url": "https://support.google.com/webmasters/answer/7489871?hl=en",
+    "name": "acta04.pdf",
+    "snippet": "No information is available for this page. Learn why",
+    "host_name": "support.google.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "emorynlp/nlp4j-morphology: Morphological analysis",
+    "snippet": "Our morphological analyzer generates root forms (lemmas) of word tokens . It is a rule-based analyzer inspired by the WordNet morphy. It also normalizes numbers ...",
+    "host_name": "github.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com",
+    "name": "Contextual Urdu Lemmatization Using Recurrent Neural",
+    "snippet": "by R Hafeez · 2023 · Cited by 21 — It involves the use of vocabulary and morphological analysis of words, intending to remove inflectional endings from the words and return their ... Read more",
+    "host_name": "www.mdpi.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "Comparative Analysis of Urdu Based Stemming Techniques",
+    "snippet": "Urdu stemming requires customized approaches due to its 60+ inflectional forms and morphological complexity. The paper evaluates current Urdu stemmers, noting ... Read more",
+    "host_name": "www.academia.edu",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

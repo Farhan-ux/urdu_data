@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://aclanthology.org",
+    "name": "Hate-Speech and Offensive Language Detection in Roman",
+    "snippet": "by H Rizwan · 2020 · Cited by 145 — The task of automatic hate-speech and offensive language detection in social media content is of utmost importance due to its implications in unprejudiced ... Read more",
+    "host_name": "aclanthology.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nature.com",
+    "name": "Enhancing Urdu hate speech detection through differential",
+    "snippet": "by I Hussain · 2025 · Cited by 2 — Most research on hate speech detection has focused primarily on resource rich language i.e. English, leaving Urdu significantly understudied. Read more",
+    "host_name": "www.nature.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "UHated: hate speech detection in Urdu language using",
+    "snippet": "by MU Arshad · 2023 · Cited by 44 — Hate-speech and offensive language detection in Roman Urdu . In: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). Read more",
+    "host_name": "dl.acm.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "Hate Speech Dataset in Urdu Language",
+    "snippet": "This dataset, developed as part of a thesis research project, focuses on Hate Speech Detection in Urdu , specifically aimed at evaluating the effectiveness ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "Roman urdu hate speech detection using hybrid machine",
+    "snippet": "by W Ashiq · 2024 · Cited by 29 — Researchers developed various approaches to solve the automatic hate speech detection problem using different corpora in various languages, ... Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vfast.org",
+    "name": "Multi-class Offensive Language Detection in Roman Urdu",
+    "snippet": "by R Ayesha · 2025 · Cited by 1 — To enhance hate speech identiﬁcation in Roman Urdu , various machine and deep learning models were trained on a publicly available dataset of ... Read more",
+    "host_name": "vfast.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Hate-Speech and Offensive Language Detection in Roman",
+    "snippet": "[6] introduce RUHSOLD, a corpus of 10,012 Roman Urdu tweets for hate speech and offensive language detection. They show the effectiveness of transfer learning ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.sciencedirect.com",
+    "name": "Hate speech detection on Twitter using transfer learning",
+    "snippet": "by R Ali · 2022 · Cited by 152 — In this research work, we develop an Urdu language hate lexicon, on the basis of this lexicon we formulate annotated dataset of 10,526 Urdu tweets. Furthermore, ... Read more",
+    "host_name": "www.sciencedirect.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com",
+    "name": "Roman Urdu Hate Speech Detection Using Transformer",
+    "snippet": "by M Bilal · 2023 · Cited by 55 — Detecting hate speech is a context-dependent problem that requires context-aware models. Traditional models based on feature engineering could ... Read more",
+    "host_name": "www.mdpi.com",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

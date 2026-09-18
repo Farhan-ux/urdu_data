@@ -1,0 +1,65 @@
+[
+  {
+    "url": "https://www.researchgate.net",
+    "name": "An Empirical Study Using Machine Learning Techniques",
+    "snippet": "In this paper, we are actively scraping Urdu news heading from news agencies including BBC Urdu and Urdupoint. Our corpus contains 141289 new words of eight ... Read more",
+    "host_name": "www.researchgate.net",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "BBC-News-Classification-using-LSTM-and-TensorFlow",
+    "snippet": "This repository contains the implementation of an NLP-based Text Classifier that classifies a set of BBC News into multiple categories. Read more",
+    "host_name": "github.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://jceps.utq.edu.iq",
+    "name": "News Classification by N-Gram and Machine Learning",
+    "snippet": "by MF Ogaib · 2022 · Cited by 1 — News is information obtained from different sources such as television, internet, , “ Urdu News Classification using Application of Machine ...",
+    "host_name": "jceps.utq.edu.iq",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "Hierarchical Text Classification of Urdu News using Deep",
+    "snippet": "by TA Javed · 2021 · Cited by 17 — This paper proposes a deep learning model for hierarchical text classification of news in Urdu language - consisting of 51,325 sentences from 8 ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "BBC News Classification",
+    "snippet": "Mar 23, 2019 — We'll use a public dataset from the BBC comprised of 2225 articles, each labeled under one of 5 categories: business, entertainment, politics, ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 4,
+    "date": "Mar 23, 2019",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bbc.com",
+    "name": "Pakistani government criticises nine BBC Urdu job cuts",
+    "snippet": "Jun 28, 2013 — The Pakistani government criticises a decision by the BBC Urdu Service to terminate the jobs of nine senior reporters across the country.",
+    "host_name": "www.bbc.com",
+    "rank": 5,
+    "date": "Jun 28, 2013",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "Fake news detection in Urdu language using machine learning",
+    "snippet": "by MS Farooq · 2023 · Cited by 39 — This study investigates these issues and proposes fake news classier for Urdu news . The dataset has been collected covering nine different ... Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  }
+]

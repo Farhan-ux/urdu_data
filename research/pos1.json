@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://dl.acm.org",
+    "name": "Urdu part of speech tagging using conditional random fields",
+    "snippet": "by W Khan · 2019 · Cited by 43 — Part of speech ( POS ) tagging , the assignment of syntactic categories for words in running text, is significant to natural language processing as a ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://link.springer.com",
+    "name": "Development of novel Urdu language part of speech tagging",
+    "snippet": "by M Ishaq · 2025 · Cited by 5 — This custom POS tagger accurately identifies and tags the parts of speech in Urdu text , which enhances the quality of the feature extraction ...",
+    "host_name": "link.springer.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pure.ulster.ac.uk",
+    "name": "Reusing Stanford POS Tagger for Tagging Urdu Sentences",
+    "snippet": "by A Naseem · Cited by 3 — The precision of tagging the Urdu sentences by reusing Stanford Part of speech tagger is 96.05 percent. The respected approach can be globally applied to ... Read more",
+    "host_name": "pure.ulster.ac.uk",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "Modeling POS Tagging for the Urdu Language",
+    "snippet": "Urdu part of speech tagging using conditional random fields · POS tagger for Urdu using Stochastic approaches · Tagging Urdu Text with Parts of Speech: A Tagger ... Read more",
+    "host_name": "www.semanticscholar.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ladal.edu.au",
+    "name": "Part-of-Speech Tagging and Dependency Parsing in R",
+    "snippet": "The process of assigning a word-class label to each token in a text is called part-of-speech tagging, commonly abbreviated as POS - tagging or PoS - tagging . Read more",
+    "host_name": "ladal.edu.au",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.academia.edu",
+    "name": "(PDF) Tagging Urdu Sentences from English POS Taggers",
+    "snippet": "The two best English POS Tagger s which tagged Urdu sentences were Stanford POS Tagger and MBSP POS Tagger with an accuracy of 96.4% and 95.7%, respectively. The ... Read more",
+    "host_name": "www.academia.edu",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://journals.sagepub.com",
+    "name": "A Semi-Automatic Approach to Developing a Large-Scale",
+    "snippet": "by M Ali · 2026 — This paper presents a semi-automatic approach to creating a comprehensive Urdu POS -tagged dataset, addressing the limitations of existing ...",
+    "host_name": "journals.sagepub.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "Part of Speech Tagger (POS) for Urdu Language with",
+    "snippet": "This directory contains the implementation of Hidden Markov Moded(HMM) based Part-of-Speech(POS) Tagger using Kneser-Ney Smoothing. Read more",
+    "host_name": "github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org",
+    "name": "Part of Speech Tagging in Urdu: Comparison of Machine",
+    "snippet": "by W Khan · 2019 · Cited by 65 — In Urdu, part of speech (POS) tagging is a challenging task as it is both inflectionally and derivationally rich morphological language.",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  }
+]

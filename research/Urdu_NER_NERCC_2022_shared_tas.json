@@ -1,0 +1,83 @@
+[
+  {
+    "url": "https://link.springer.com",
+    "name": "Advancing Urdu named entity recognition: deep learning for",
+    "snippet": "by K Aziz · 2025 · Cited by 13 — Shared Task: Adapted guidelines for annotating standard entity types including persons, locations, and organizations to fit Urdu news",
+    "host_name": "link.springer.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Enriching Urdu NER with BERT Embedding, Data",
+    "snippet": "by A Ahmed · 2024 · Cited by 24 — In Proceedings of the 4th Workshop on Open-Source Arabic Corpora and Processing Tools, with a Shared Task on Offensive Language Detection. Read more",
+    "host_name": "dl.acm.org",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "BioUNER: A Benchmark Dataset for Clinical Urdu Named",
+    "snippet": "by W Ali · 2026 — Clinical Named Entity Recognition ( NER ) is a specialized task in Natural Language Processing. (NLP) that aims to identify and extract important. Read more",
+    "host_name": "arxiv.org",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://journals.plos.org",
+    "name": "A deep learning approach for Named Entity Recognition in",
+    "snippet": "by R Anam · 2024 · Cited by 15 — Considering the NER task , the Urdu language poses immense challenges due to minimal textual resources and exhaustive language complexities [15]. Read more",
+    "host_name": "journals.plos.org",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://ieeexplore.ieee.org",
+    "name": "UE-NER-2025: A GPT-Based Approach to Multi-Lingual",
+    "snippet": "by M Ahmad · 2025 · Cited by 11 — Named Entity Recognition ( NER ) is a fundamental task that identifies and classifies entities into predefined categories from unstructured text. 12 pages",
+    "host_name": "ieeexplore.ieee.org",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pure.psu.edu",
+    "name": "UE-NER-2025: A GPT-Based Approach to Multi-Lingual",
+    "snippet": "by M Ahmad · 2025 · Cited by 10 — Named Entity Recognition ( NER ) is a fundamental task that identifies and classifies entities into predefined categories from unstructured text. Read more",
+    "host_name": "pure.psu.edu",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "Urdu Named Entity Recognition with Attention Bi-LSTM",
+    "snippet": "This study explores the effectiveness of transformer-based models for Named Entity Recognition ( NER ) in Urdu legal documents, a critical task in low-resource ...",
+    "host_name": "www.semanticscholar.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.researchgate.net",
+    "name": "Challenges of Urdu Named Entity Recognition: A Scarce",
+    "snippet": "Jun 17, 2026 — The first module called NER module recognizes NE in the text, second module called NEC challenging task for Urdu language. NER Shared Task for ...",
+    "host_name": "www.researchgate.net",
+    "rank": 7,
+    "date": "Jun 17, 2026",
+    "favicon": ""
+  },
+  {
+    "url": "https://abbdm.com",
+    "name": "Expanded Entity Coverage and Machine-Annotated Pre-",
+    "snippet": "Feb 2, 2026 — This paper presents a data-efficient framework for Urdu NER that combines large-scale machine-generated annotations with high-quality human- ... Read more",
+    "host_name": "abbdm.com",
+    "rank": 8,
+    "date": "Feb 2, 2026",
+    "favicon": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.semanticscholar.org",
+    "name": "[PDF] Hate Speech Detection in Roman Urdu",
+    "snippet": "This study develops a methodology to detect hate speech in Roman Urdu ... 2020. TLDR. The HASOC track intends to provide a platform to develop and optimize Hate ... Read more",
+    "host_name": "www.semanticscholar.org",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://dl.acm.org",
+    "name": "Hate Speech Detection in Roman Urdu",
+    "snippet": "Mar 9, 2021 — Overview of the HASOC track at FIRE 2019: Hate speech and offensive content identification in Indo-European languages. In Proceedings of the ... Read more",
+    "host_name": "dl.acm.org",
+    "rank": 1,
+    "date": "Mar 9, 2021",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kaggle.com",
+    "name": "Hate Speech Dataset in Urdu Language",
+    "snippet": "This dataset, developed as part of a thesis research project, focuses on Hate Speech Detection in Urdu , specifically aimed at evaluating the effectiveness ... Read more",
+    "host_name": "www.kaggle.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov",
+    "name": "Roman urdu hate speech detection using hybrid machine",
+    "snippet": "by W Ashiq · 2024 · Cited by 29 — Researchers developed various approaches to solve the automatic hate speech detection problem using different corpora in various languages, ... Read more",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.mdpi.com",
+    "name": "Roman Urdu Hate Speech Detection Using Transformer",
+    "snippet": "by M Bilal · 2023 · Cited by 55 — In this study, a transformer-based model is applied to the classification of hate speech to exploit its parallel processing capability and ... Read more",
+    "host_name": "www.mdpi.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://aclanthology.org",
+    "name": "Exploring Data Augmentation Strategies for Hate Speech",
+    "snippet": "by U Azam · 2022 · Cited by 27 — In this paper, we explore different data augmentation techniques for the improvement of hate speech detection in Roman Urdu . We evaluate ... Read more 9 pages",
+    "host_name": "aclanthology.org",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://arxiv.org",
+    "name": "[2108.02830] Hate Speech Detection in Roman Urdu",
+    "snippet": "by M Khan · 2021 · Cited by 109 — In this study, we have scrapped more than 90,000 tweets and manually parsed them to identify 5,000 Roman Urdu tweets. Subsequently, we have ... Read more",
+    "host_name": "arxiv.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com",
+    "name": "hate-alert/UrduAbuseAndThreat: This repository contain",
+    "snippet": "Based on this shared task HASOC - Abusive and Threatening language detection in Urdu at FIRE 2021, we present an exhaustive exploration of different machine ... Read more",
+    "host_name": "github.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  }
+]
