@@ -22,18 +22,29 @@ The executable will be in `dist/` folder. Double-click to run.
 
 ## 🎯 Sources Covered
 
-| Source | Articles Available | Date Range |
-|--------|-------------------:|------------|
-| Nawa-i-Waqt | 2,585,403 | 2002 → 2026 |
-| Express Urdu | 450,000 | 2013 → 2026 |
-| 24 News HD | 185,810 | 2020 → 2026 |
-| Ummat | 116,000 | 2018 → 2026 |
-| Bol News Urdu | 71,404 | 2022 → 2026 |
-| Daily Ausaf | 52,026 | recent |
-| Independent Urdu | 51,865 | 2018 → 2026 |
-| **Total** | **3,512,508** | **2002 → 2026** |
+| Source | Articles Available | Date Range | Notes |
+|--------|-------------------:|------------|-------|
+| Nawa-i-Waqt | 2,585,403 | 2002 → 2026 | Largest source; daily sitemaps |
+| Express Urdu | 450,000 | 2013 → 2026 | 92 sub-sitemaps × 5000 URLs |
+| **ARY Urdu** | **352,000** | **2013 → 2026** | **Uses Googlebot UA (site blocks default)** |
+| 24 News HD | 185,810 | 2020 → 2026 | Daily sitemaps |
+| Ummat | 116,000 | 2018 → 2026 | 116 sub-sitemaps × 1000 URLs |
+| Bol News Urdu | 71,404 | 2022 → 2026 | 72 sub-sitemaps × 1000 URLs |
+| Daily Ausaf | 52,026 | recent | 52 sub-sitemaps × 1000 URLs |
+| Independent Urdu | 51,865 | 2018 → 2026 | 2 paged sitemaps |
+| **Total** | **3,864,508** | **2002 → 2026** | **3.8x bigger than Mendeley 1M** |
 
-This is **3.5x bigger** than the Mendeley Urdu News Dataset 1M.
+### Sites that couldn't be scraped (JavaScript-rendered or hard-blocked)
+
+- **Geo Urdu** — JS-rendered, no sitemap accessible
+- **Samaa Urdu** — JS-rendered, no sitemap accessible
+- **Aaj News** — Hard 403 block, no sitemap
+- **Dawn Urdu** — Hard 403 block, no sitemap
+- **Dunya Urdu** — JS-rendered homepage
+- **UrduPoint** — No sitemap, JS-rendered
+
+These would require Selenium (browser automation) — out of scope for this gentle
+HTTP-based scraper.
 
 ## ✨ Features
 

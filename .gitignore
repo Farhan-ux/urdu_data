@@ -67,3 +67,7 @@ urdu_topic/express_log.txt
 urdu_topic/parallel_log.txt
 urdu_topic/scrape_log.txt
 urdu_topic/logs/
+
+# PyInstaller build artifacts
+urdu_topic/gui_app/build/
+urdu_topic/gui_app/dist/

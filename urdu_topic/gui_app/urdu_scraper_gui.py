@@ -51,6 +51,14 @@ HEADERS = {
     "Accept-Language": "ur,en;q=0.9",
 }
 
+# Fallback User-Agents — some sites (e.g. ARY Urdu) block default UAs but allow Googlebot
+GOOGLEBOT_UA = "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+HEADERS_GOOGLEBOT = {
+    "User-Agent": GOOGLEBOT_UA,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "ur,en;q=0.9",
+}
+
 
 # ============================================================
 # SOURCE CONFIGURATIONS
@@ -64,6 +72,7 @@ SOURCES = {
         "article_pattern": r"/\d{1,2}-\w+-\d{4}/\d+",
         "estimated_articles": 2585403,
         "color": "#ff7f0e",
+        "use_googlebot": False,
     },
     "express": {
         "name": "Express Urdu",
@@ -73,6 +82,17 @@ SOURCES = {
         "article_pattern": "/story/",
         "estimated_articles": 450000,
         "color": "#1f77b4",
+        "use_googlebot": False,
+    },
+    "aryurdu": {
+        "name": "ARY Urdu",
+        "base": "https://urdu.arynews.tv",
+        "sitemap_url": "https://urdu.arynews.tv/sitemap.xml",
+        "sub_pattern": "post-sitemap",
+        "article_pattern": r"/\d{5,}",
+        "estimated_articles": 352000,
+        "color": "#9467bd",
+        "use_googlebot": True,  # ARY blocks default UA but allows Googlebot
     },
     "24newshd": {
         "name": "24 News HD",
@@ -82,6 +102,7 @@ SOURCES = {
         "article_pattern": r"/\d{6,}",
         "estimated_articles": 185810,
         "color": "#d62728",
+        "use_googlebot": False,
     },
     "ummat": {
         "name": "Ummat",
@@ -91,6 +112,7 @@ SOURCES = {
         "article_pattern": r"/\d{5,}",
         "estimated_articles": 116000,
         "color": "#e377c2",
+        "use_googlebot": False,
     },
     "bolurdu": {
         "name": "Bol News Urdu",
@@ -100,15 +122,7 @@ SOURCES = {
         "article_pattern": r"/\d{5,}",
         "estimated_articles": 71404,
         "color": "#7f7f7f",
-    },
-    "independenturdu": {
-        "name": "Independent Urdu",
-        "base": "https://www.independenturdu.com",
-        "sitemap_url": "https://www.independenturdu.com/sitemap.xml?page=1",
-        "sub_pattern": "page=",
-        "article_pattern": "/node/",
-        "estimated_articles": 51865,
-        "color": "#bcbd22",
+        "use_googlebot": False,
     },
     "dailyausaf": {
         "name": "Daily Ausaf",
@@ -118,6 +132,17 @@ SOURCES = {
         "article_pattern": r"/\d{5,}",
         "estimated_articles": 52026,
         "color": "#17becf",
+        "use_googlebot": False,
+    },
+    "independenturdu": {
+        "name": "Independent Urdu",
+        "base": "https://www.independenturdu.com",
+        "sitemap_url": "https://www.independenturdu.com/sitemap.xml?page=1",
+        "sub_pattern": "page=",
+        "article_pattern": "/node/",
+        "estimated_articles": 51865,
+        "color": "#bcbd22",
+        "use_googlebot": False,
     },
 }
 
@@ -125,16 +150,24 @@ SOURCES = {
 # ============================================================
 # NETWORK HELPERS
 # ============================================================
-def fetch(url, retries=3, timeout=15):
-    """Fetch URL with exponential backoff. Returns text or None."""
+def fetch(url, retries=3, timeout=15, use_googlebot=False):
+    """Fetch URL with exponential backoff. Returns text or None.
+    If use_googlebot=True, uses Googlebot UA (for sites like ARY that block default UA).
+    Falls back to Googlebot UA if default UA gets 403.
+    """
+    hdrs = HEADERS_GOOGLEBOT if use_googlebot else HEADERS
     for attempt in range(retries):
         try:
-            r = requests.get(url, headers=HEADERS, timeout=timeout)
+            r = requests.get(url, headers=hdrs, timeout=timeout)
             if r.status_code == 200:
                 return r.text
             elif r.status_code in (429, 503):
                 wait = 10 * (attempt + 1)
                 time.sleep(wait)
+            elif r.status_code == 403 and not use_googlebot:
+                # Try Googlebot UA as fallback
+                hdrs = HEADERS_GOOGLEBOT
+                continue
             elif r.status_code in (403, 404):
                 return None
             else:
@@ -250,6 +283,7 @@ def parse_article_bbc_urdu(html, url):
 PARSERS = {
     "express": parse_article_generic,
     "nawaiwaqt": parse_article_generic,
+    "aryurdu": parse_article_generic,
     "24newshd": parse_article_generic,
     "ummat": parse_article_generic,
     "bolurdu": parse_article_generic,
@@ -309,11 +343,14 @@ class ScraperState:
 def collect_urls_for_source(source_key, source_config, log_func, max_sitemaps=200, since_date=None):
     """Collect article URLs for one source by walking its sitemap."""
     log_func(f"[{source_config['name']}] Starting URL collection...")
+    use_gb = source_config.get("use_googlebot", False)
+    if use_gb:
+        log_func(f"[{source_config['name']}] Using Googlebot UA (site blocks default UA)")
     all_urls = []
 
     # Fetch main sitemap
     log_func(f"[{source_config['name']}] Fetching main sitemap...")
-    text = fetch(source_config["sitemap_url"])
+    text = fetch(source_config["sitemap_url"], use_googlebot=use_gb)
     if not text:
         log_func(f"[{source_config['name']}] ERROR: Could not fetch main sitemap")
         return []
@@ -343,7 +380,7 @@ def collect_urls_for_source(source_key, source_config, log_func, max_sitemaps=20
         log_func(f"[{source_config['name']}] Walking {len(relevant_subs)} sub-sitemaps (capped at {max_sitemaps})...")
 
         for i, sm_url in enumerate(relevant_subs, 1):
-            text = fetch(sm_url)
+            text = fetch(sm_url, use_googlebot=use_gb)
             if not text:
                 continue
             sub_article_urls, _ = parse_sitemap_xml(text)
@@ -495,7 +532,9 @@ class ScraperWorker:
 
                     self.log(f"[{i}/{len(pending)}] scraped={articles_scraped} failed={articles_failed} rate={rate:.1f}/min | {url[:80]}")
 
-                    html = fetch(url)
+                    # Use per-source UA (ARY needs Googlebot)
+                    use_gb = source_config.get("use_googlebot", False)
+                    html = fetch(url, use_googlebot=use_gb)
                     if not html:
                         state.mark_scraped(url, success=False)
                         articles_failed += 1
