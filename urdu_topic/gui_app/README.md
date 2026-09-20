@@ -49,16 +49,18 @@ HTTP-based scraper.
 ## ✨ Features
 
 - **One-click start** — pick folder, click Start, walk away
-- **Live log** — watch every URL being scraped in real time
+- **⚡ Parallel mode (NEW)** — 8x faster! One thread per source, all sources scraped simultaneously. Each source still gets gentle 3s delay between requests to its own host.
+- **Live log** — watch every URL being scraped in real time (per-source prefixed)
 - **Resumable** — kill anytime, restart picks up where it left off
-- **Gentle on servers** — 3-second delay between requests (configurable)
+- **Gentle on servers** — 3-second delay between requests to SAME host (configurable)
 - **Network resilient** — retries with exponential backoff on connection errors
 - **Time-limited** — set max minutes (default unlimited)
 - **Article-limited** — set max articles per source
 - **Date filter** — only scrape articles since YYYY-MM-DD
-- **Auto-save** — progress saved every 25 articles
+- **Auto-save** — progress saved every 25 articles per source
 - **Per-source control** — enable/disable each source individually
-- **Live progress bar** — shows current source, current article, rate
+- **Live progress bar** — combined progress across all active sources
+- **Per-source UA fallback** — ARY Urdu uses Googlebot UA (site blocks default)
 - **Open folder button** — quick access to scraped data
 
 ## 🖱️ How to Use
@@ -119,18 +121,30 @@ For each URL in the queue (per source):
 
 ## 🚀 Throughput
 
-With default 3-second delay:
+### Sequential mode (old)
+With 3-second delay, one source at a time:
 
 | Setting | Articles/hour | Articles/day |
 |---------|--------------:|-------------:|
 | 3s delay, 1 source | ~1,000 | ~24,000 |
-| 3s delay, all 7 sources (sequential) | ~7,000 | ~168,000 |
-| 5s delay (extra gentle), 1 source | ~600 | ~14,400 |
+| 3s delay, all 8 sources (sequential) | ~1,000 | ~24,000 |
 
-**Recommended for a 3-day weekend run (all sources, 3s delay):** ~500,000 articles.
+### ⚡ Parallel mode (new default) — 8x faster!
+One thread per source, all 8 sources scraped simultaneously:
 
-**To hit 3M+ articles** (full coverage): run for ~3 weeks of continuous scraping, or
-use a faster delay (1-2s) if servers allow.
+| Setting | Articles/hour | Articles/day | Articles/month |
+|---------|--------------:|-------------:|---------------:|
+| 3s delay, 8 sources in parallel | **~8,000** | **~192,000** | **~5,760,000** |
+| 2s delay, 8 sources in parallel | ~12,000 | ~288,000 | ~8,640,000 |
+| 5s delay (extra gentle), 8 sources | ~4,800 | ~115,000 | ~3,450,000 |
+
+**🎯 To hit 5M+ articles (your target):**
+- 3s delay, parallel mode → **~26 days** of continuous scraping
+- 2s delay, parallel mode → **~17 days**
+- 3s delay, 24/7 for a month → **~5.7M articles** ✅
+
+This is exactly what parallel mode was designed for. Run it 24/7 for a month and
+you'll have a 5M+ article Urdu corpus — **5x bigger than the Mendeley Urdu News 1M dataset**.
 
 ## 🛡️ Safety Features
 
