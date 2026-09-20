@@ -1,0 +1,7 @@
+# Requirements for HF Space with Scrapy
+gradio==5.29.0
+scrapy==2.19.0
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+lxml_html_clean>=0.1.0
