@@ -296,6 +296,7 @@ PARSERS = {
 # SCRAPER STATE (for resumability)
 # ============================================================
 class ScraperState:
+    """Thread-safe scraper state for parallel workers."""
     def __init__(self, source_key, project_dir):
         self.source_key = source_key
         self.project_dir = project_dir
@@ -305,6 +306,7 @@ class ScraperState:
         self.scraped_urls_path = os.path.join(self.data_dir, f"{source_key}_scraped_urls.json")
         self.articles = []
         self.scraped_urls = set()
+        self.lock = threading.Lock()
         self._load()
 
     def _load(self):
@@ -322,19 +324,32 @@ class ScraperState:
                 self.scraped_urls = set()
 
     def save(self):
-        with open(self.articles_path, "w", encoding="utf-8") as f:
-            json.dump(self.articles, f, ensure_ascii=False, indent=2)
-        with open(self.scraped_urls_path, "w") as f:
-            json.dump(sorted(self.scraped_urls), f, indent=2)
+        with self.lock:
+            # Atomic write via temp file
+            tmp1 = self.articles_path + ".tmp"
+            with open(tmp1, "w", encoding="utf-8") as f:
+                json.dump(self.articles, f, ensure_ascii=False, indent=2)
+            os.replace(tmp1, self.articles_path)
+            tmp2 = self.scraped_urls_path + ".tmp"
+            with open(tmp2, "w") as f:
+                json.dump(sorted(self.scraped_urls), f, indent=2)
+            os.replace(tmp2, self.scraped_urls_path)
 
     def is_scraped(self, url):
-        return url in self.scraped_urls
+        with self.lock:
+            return url in self.scraped_urls
 
     def mark_scraped(self, url, success=True):
-        self.scraped_urls.add(url)
+        with self.lock:
+            self.scraped_urls.add(url)
 
     def add_article(self, article):
-        self.articles.append(article)
+        with self.lock:
+            self.articles.append(article)
+
+    def get_count(self):
+        with self.lock:
+            return len(self.articles)
 
 
 # ============================================================
@@ -413,7 +428,7 @@ class ScraperWorker:
     """
     def __init__(self, project_dir, selected_sources, delay, max_minutes, max_articles_per_source,
                  max_sitemaps_per_source, since_date, log_func, progress_func, stop_flag,
-                 parallel_mode=True):
+                 parallel_mode=True, workers_per_source=4):
         self.project_dir = project_dir
         self.selected_sources = selected_sources
         self.delay = delay
@@ -425,8 +440,9 @@ class ScraperWorker:
         self.progress = progress_func
         self.stop_flag = stop_flag
         self.parallel_mode = parallel_mode
+        self.workers_per_source = workers_per_source  # NEW: concurrent workers per source
         # Thread-safe progress tracking
-        self.source_progress = {}  # source_key -> {current, total, scraped, failed, rate, elapsed, status}
+        self.source_progress = {}
         self.progress_lock = threading.Lock()
 
     def _update_source_progress(self, source_key, **kwargs):
@@ -459,11 +475,12 @@ class ScraperWorker:
         }
 
     def _scrape_one_source(self, source_key, url_queue):
-        """Scrape articles for ONE source. Designed to run in its own thread."""
+        """Scrape articles for ONE source using N concurrent workers."""
+        from concurrent.futures import ThreadPoolExecutor, as_completed
         source_config = SOURCES[source_key]
         source_name = source_config["name"]
         try:
-            self.log(f"[{source_name}] Phase 2 starting...")
+            self.log(f"[{source_name}] Phase 2 starting with {self.workers_per_source} workers...")
             state = ScraperState(source_key, self.project_dir)
             starting_count = len(state.articles)
             self.log(f"[{source_name}] Already scraped: {starting_count:,} articles")
@@ -484,86 +501,103 @@ class ScraperWorker:
             articles_scraped = 0
             articles_failed = 0
             use_gb = source_config.get("use_googlebot", False)
+            workers = self.workers_per_source
 
-            for i, entry in enumerate(pending, 1):
-                if self.stop_flag.is_set():
-                    self.log(f"[{source_name}] Stop requested — saving and exiting")
-                    break
-                if self.max_minutes and (time.time() - start_time) / 60 >= self.max_minutes:
-                    self.log(f"[{source_name}] Time limit reached ({self.max_minutes} min)")
-                    break
-                if self.max_articles_per_source and articles_scraped >= self.max_articles_per_source:
-                    self.log(f"[{source_name}] Article limit reached ({self.max_articles_per_source})")
-                    break
-
+            # Worker function: fetch + parse one URL, return result
+            def fetch_and_parse(entry):
+                """Worker: fetch one URL and parse it. Returns (status, url, article_or_none)."""
                 url = entry["url"]
-                elapsed = time.time() - start_time
-                rate = articles_scraped / max(0.01, elapsed / 60)
+                try:
+                    html = fetch(url, use_googlebot=use_gb)
+                    # Rate limit: sleep after each request
+                    time.sleep(self.delay)
+                    if not html:
+                        return ("failed", url, None)
+                    parsed = parser(html, url)
+                    if not parsed:
+                        return ("failed", url, None)
+                    article = {
+                        "url": url,
+                        "title": parsed["title"],
+                        "body": parsed["body"],
+                        "source": source_key,
+                        "source_name": source_name,
+                        "lastmod": entry.get("lastmod", ""),
+                        "word_count": len(parsed["body"].split()),
+                        "scraped_at": datetime.utcnow().isoformat() + "Z",
+                    }
+                    return ("ok", url, article)
+                except Exception as e:
+                    return ("error", url, str(e)[:60])
 
-                # Update progress (thread-safe)
-                self._update_source_progress(source_key, current=i, scraped=articles_scraped, failed=articles_failed, rate=rate, elapsed=elapsed)
+            # Process URLs in batches with thread pool
+            batch_size = workers * 4  # keep pool busy but don't submit everything at once
+            i = 0
 
-                # Update combined progress bar (less frequently to avoid UI spam)
-                if i % 5 == 0 or i == 1:
-                    combined = self._get_combined_progress()
-                    self.progress(
-                        source=f"ALL ({len(self.selected_sources)} sources)",
-                        current=combined["current"],
-                        total=combined["total"],
-                        scraped=combined["scraped"],
-                        failed=combined["failed"],
-                        rate=combined["rate"],
-                        elapsed=combined["elapsed"],
-                    )
+            with ThreadPoolExecutor(max_workers=workers) as pool:
+                for batch_start in range(0, len(pending), batch_size):
+                    if self.stop_flag.is_set():
+                        self.log(f"[{source_name}] Stop requested — saving")
+                        break
+                    if self.max_minutes and (time.time() - start_time) / 60 >= self.max_minutes:
+                        self.log(f"[{source_name}] Time limit ({self.max_minutes} min)")
+                        break
+                    if self.max_articles_per_source and articles_scraped >= self.max_articles_per_source:
+                        self.log(f"[{source_name}] Article limit ({self.max_articles_per_source})")
+                        break
 
-                # Verbose log (only every 25 articles to avoid log spam in parallel mode)
-                if self.parallel_mode:
-                    if i % 25 == 0 or i == 1:
-                        self.log(f"[{source_name}] [{i}/{len(pending)}] scraped={articles_scraped} fail={articles_failed} rate={rate:.1f}/min")
-                else:
-                    self.log(f"[{source_name}] [{i}/{len(pending)}] scraped={articles_scraped} fail={articles_failed} rate={rate:.1f}/min | {url[:80]}")
+                    batch = pending[batch_start:batch_start + batch_size]
+                    futures = {pool.submit(fetch_and_parse, e): e for e in batch}
 
-                # Fetch + parse
-                html = fetch(url, use_googlebot=use_gb)
-                if not html:
-                    state.mark_scraped(url, success=False)
-                    articles_failed += 1
-                else:
-                    try:
-                        parsed = parser(html, url)
-                        if parsed:
-                            article = {
-                                "url": url,
-                                "title": parsed["title"],
-                                "body": parsed["body"],
-                                "source": source_key,
-                                "source_name": source_name,
-                                "lastmod": entry.get("lastmod", ""),
-                                "word_count": len(parsed["body"].split()),
-                                "scraped_at": datetime.utcnow().isoformat() + "Z",
-                            }
-                            state.add_article(article)
-                            state.mark_scraped(url, success=True)
-                            articles_scraped += 1
-                        else:
-                            state.mark_scraped(url, success=False)
+                    for fut in as_completed(futures):
+                        if self.stop_flag.is_set():
+                            break
+                        i += 1
+                        try:
+                            status, url, data = fut.result(timeout=30)
+                            if status == "ok":
+                                state.add_article(data)
+                                state.mark_scraped(url, success=True)
+                                articles_scraped += 1
+                            else:
+                                state.mark_scraped(url, success=False)
+                                articles_failed += 1
+                        except Exception:
                             articles_failed += 1
-                    except Exception as e:
-                        state.mark_scraped(url, success=False)
-                        articles_failed += 1
-                        self.log(f"[{source_name}] PARSE ERROR: {type(e).__name__}: {str(e)[:60]}")
 
-                # Save periodically (each source saves its own file, no contention)
-                if articles_scraped % SAVE_EVERY == 0 and articles_scraped > 0:
-                    state.save()
+                        # Update progress every 10 articles
+                        if i % 10 == 0 or i == 1:
+                            elapsed = time.time() - start_time
+                            rate = articles_scraped / max(0.01, elapsed / 60)
+                            self._update_source_progress(source_key, current=i, scraped=articles_scraped, failed=articles_failed, rate=rate, elapsed=elapsed)
+                            # Update combined progress
+                            combined = self._get_combined_progress()
+                            self.progress(
+                                source=f"ALL ({len(self.selected_sources)} sources)",
+                                current=combined["current"],
+                                total=combined["total"],
+                                scraped=combined["scraped"],
+                                failed=combined["failed"],
+                                rate=combined["rate"],
+                                elapsed=combined["elapsed"],
+                            )
 
-                # Gentle delay between requests to SAME host
-                time.sleep(self.delay)
+                        # Log every 50
+                        if i % 50 == 0:
+                            elapsed = time.time() - start_time
+                            rate = articles_scraped / max(0.01, elapsed / 60)
+                            self.log(f"[{source_name}] [{i}/{len(pending)}] scraped={articles_scraped} fail={articles_failed} rate={rate:.0f}/min")
+
+                        # Save every 25
+                        if articles_scraped % SAVE_EVERY == 0 and articles_scraped > 0:
+                            state.save()
 
             # Final save
             state.save()
             self._update_source_progress(source_key, status="done")
-            self.log(f"[{source_name}] Done: +{articles_scraped} scraped, {articles_failed} failed in {time.time()-start_time:.0f}s (total in storage: {len(state.articles):,})")
+            elapsed = time.time() - start_time
+            final_rate = articles_scraped / max(0.01, elapsed / 60)
+            self.log(f"[{source_name}] Done: +{articles_scraped} scraped, {articles_failed} failed in {elapsed:.0f}s (rate: {final_rate:.0f}/min, total: {state.get_count():,})")
             return articles_scraped
 
         except Exception as e:

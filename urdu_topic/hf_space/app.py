@@ -58,12 +58,13 @@ if not os.path.exists("/data"):
 os.makedirs(PROJECT_DIR, exist_ok=True)
 os.makedirs(os.path.join(PROJECT_DIR, "data"), exist_ok=True)
 
-DELAY = float(os.environ.get("DELAY", "3"))
+DELAY = float(os.environ.get("DELAY", "0.5"))  # Reduced from 3s to 0.5s for 6x speedup
 MAX_MINUTES = int(os.environ.get("MAX_MINUTES", "0"))
 MAX_ARTICLES = int(os.environ.get("MAX_ARTICLES", "0"))
 MAX_SITEMAPS = int(os.environ.get("MAX_SITEMAPS", "500"))
 SINCE_DATE = os.environ.get("SINCE_DATE", "") or None
 PARALLEL_MODE = os.environ.get("PARALLEL_MODE", "1") == "1"
+WORKERS_PER_SOURCE = int(os.environ.get("WORKERS_PER_SOURCE", "4"))  # 4 concurrent workers per source
 SOURCES_ENV = os.environ.get("SOURCES", "all")
 
 # Import the scraper logic from gui_app
@@ -128,6 +129,7 @@ class GlobalState:
                     "max_sitemaps": MAX_SITEMAPS,
                     "since_date": SINCE_DATE,
                     "parallel_mode": PARALLEL_MODE,
+                    "workers_per_source": WORKERS_PER_SOURCE,
                     "selected_sources": SELECTED_SOURCES,
                 },
             }
@@ -166,8 +168,12 @@ def run_scraper():
     log_func(f"🚀 Starting scraper at {STATE.start_time.isoformat()}")
     log_func(f"📁 Project dir: {PROJECT_DIR}")
     log_func(f"📡 Sources ({len(SELECTED_SOURCES)}): {SELECTED_SOURCES}")
-    log_func(f"⏱️  Delay: {DELAY}s, Parallel: {PARALLEL_MODE}")
+    log_func(f"⏱️  Delay: {DELAY}s, Parallel: {PARALLEL_MODE}, Workers/source: {WORKERS_PER_SOURCE}")
     log_func(f"📊 Max minutes: {MAX_MINUTES}, Max articles/source: {MAX_ARTICLES}")
+    # Calculate expected throughput
+    est_per_sec = len(SELECTED_SOURCES) * WORKERS_PER_SOURCE / max(0.1, DELAY + 0.3)
+    est_per_min = int(est_per_sec * 60)
+    log_func(f"🚀 Estimated throughput: ~{est_per_min:,} articles/min")
     log_func("=" * 60)
 
     worker = ScraperWorker(
@@ -182,6 +188,7 @@ def run_scraper():
         progress_func=progress_func,
         stop_flag=STATE.stop_flag,
         parallel_mode=PARALLEL_MODE,
+        workers_per_source=WORKERS_PER_SOURCE,
     )
 
     try:
@@ -315,8 +322,8 @@ def build_ui():
 
             **Rate**: {rate_str} | **ETA to 5M**: {eta_str}
 
-            **Config**: delay={s["config"]["delay"]}s, parallel={s["config"]["parallel_mode"]},
-            sources={len(s["config"]["selected_sources"])}, max_sitemaps={s["config"]["max_sitemaps"]}
+            **Config**: delay={s["config"]["delay"]}s, workers/source={s["config"]["workers_per_source"]},
+            parallel={s["config"]["parallel_mode"]}, sources={len(s["config"]["selected_sources"])}
 
             **Project dir**: `{s["project_dir"]}`
             </div>
