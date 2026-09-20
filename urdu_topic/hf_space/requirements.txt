@@ -1,5 +1,6 @@
 # Python deps for HF Space (Gradio SDK)
-gradio>=4.44.0
+# Use Gradio 5.x which is compatible with huggingface_hub 1.x (no HfFolder import)
+gradio==5.29.0
 requests>=2.31
 beautifulsoup4>=4.12
 lxml>=4.9
