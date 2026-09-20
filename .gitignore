@@ -1,2 +1,63 @@
+# ============================================================
+# .gitignore for Urdu NLP Research repo
+# ============================================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+*.npy
+
+# Logs and temp files
+*.log
+logs/
+*.tmp
+*.swp
+.DS_Store
+*~
+
+# Large intermediate files (regenerate from scripts)
+urdu_topic/data/*.npz
+urdu_topic/research/*.json
+research/url_status.json
+research/_consolidated.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+Thumbs.db
+
+# Token files (NEVER commit these)
+*.token
+.env
+.env.local
+secrets.*
+*credentials*
+
+# Keep these even though they're data files:
+!urdu_topic/dataset_release/*.csv
+!urdu_topic/dataset_release/*.jsonl
+!urdu_topic/dataset_release/*.json
+!urdu_topic/dataset_release/*.md
+!urdu_topic/dataset_release/*.txt
+!urdu_topic/dataset_release/*.py
+
+# Exclude skills folder (internal, not part of the research repo)
 skills/
-node_modules/
+
+# Exclude other internal stuff
+agent-ctx/
+worklog.md
