@@ -1,0 +1,25 @@
+{
+  "total_articles": 464,
+  "total_words": 240716,
+  "avg_words_per_article": 518.7844827586207,
+  "sources": {
+    "express": 150,
+    "jang": 127,
+    "nawaiwaqt": 81,
+    "bbc_urdu": 106
+  },
+  "sections": {
+    "entertainment": 38,
+    "general": 16,
+    "sports": 36,
+    "pakistan": 128,
+    "lifestyle": 18,
+    "science": 26,
+    "crime": 62,
+    "world": 112,
+    "business": 28
+  },
+  "scrape_date": "September 2026",
+  "scrape_period": "Recent articles from each source (no historical archive)",
+  "license": "CC BY 4.0 — please cite this work if used"
+}

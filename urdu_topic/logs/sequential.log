@@ -1,0 +1,2 @@
+Usage: python 04_scrape_safe.py <source_name>
+Sources: ['express', 'jang', 'geo', 'samaa']

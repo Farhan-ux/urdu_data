@@ -1,0 +1,43 @@
+Final scraper starting at 04:28:20
+Pre-loaded: 150 articles
+
+=== JANG ===
+Collecting URLs...
+  jang/latest-news: +100 (total 100)
+  jang/pakistan: +61 (total 127)
+  jang/world: +61 (total 127)
+  jang/sports: +61 (total 127)
+  jang/entertainment: +61 (total 127)
+  jang/science: +61 (total 127)
+  jang/business: +61 (total 127)
+  jang/lifestyle: +61 (total 127)
+  jang/magazines: +61 (total 127)
+URLs: 127 in 6.2s
+Parsing 127 articles...
+  [50/127] ok=50 fail=0 elapsed=2.5s
+  [100/127] ok=100 fail=0 elapsed=5.0s
+Done jang: parsed=127 failed=0 in 6.5s
+
+=== NAWAIWAQT ===
+Collecting URLs...
+  nawaiwaqt/latest-news: FAILED
+  nawaiwaqt/pakistan: FAILED
+  nawaiwaqt/world: FAILED
+  nawaiwaqt/sports: +94 (total 94)
+  nawaiwaqt/entertainment: +94 (total 106)
+  nawaiwaqt/science: FAILED
+  nawaiwaqt/business: +94 (total 118)
+  nawaiwaqt/lifestyle: FAILED
+URLs: 118 in 16.2s
+Parsing 118 articles...
+  [50/118] ok=33 fail=17 elapsed=8.1s
+  [100/118] ok=68 fail=32 elapsed=14.7s
+Done nawaiwaqt: parsed=81 failed=37 in 17.8s
+
+=== FINAL ===
+    150  express
+    127  jang
+     81  nawaiwaqt
+Total: 358 articles
+Saved: /home/z/my-project/urdu_topic/data/all_articles.json
+Total words: 192,110
