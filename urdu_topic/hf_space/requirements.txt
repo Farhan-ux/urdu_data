@@ -1,0 +1,6 @@
+# Python deps for HF Space
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+lxml_html_clean>=0.1.0
+gradio>=4.0
