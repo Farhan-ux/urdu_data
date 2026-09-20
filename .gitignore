@@ -61,3 +61,9 @@ skills/
 # Exclude other internal stuff
 agent-ctx/
 worklog.md
+
+# Urudu topic logs (not needed in repo)
+urdu_topic/express_log.txt
+urdu_topic/parallel_log.txt
+urdu_topic/scrape_log.txt
+urdu_topic/logs/

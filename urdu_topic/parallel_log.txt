@@ -1,4 +1,0 @@
-Launching 5 parallel source scrapers...
-  Started express (PID 1471)
-  Started jang (PID 1472)
-  Started geo (PID 1473)
